@@ -13,24 +13,37 @@ theme = "ananke"
   background_color_class = "bg-black"
   featured_image = "images/image.jpeg"
 
+
+    
 [[params.ananke_socials]]
 name = "twitter"
-url = "https://twitter.com/GoHugoIO"
+url = "https://twitter.com/billybluestar"
 
+[[params.ananke_socials]]
+name = "youtube"
+url = "https://youtube.com/channel/UCsDbmaht_nWUIzjYgLMCy7w"
+
+[[params.ananke_socials]]
+name = "facebook"
+url = "https://facebook.com/rob.brooks.10297"
+
+[[params.ananke_socials]]
+name = "instagram"
+url = "https://instagram.com/robertbrooks334"
 
 
 [menu]
 [[menu.main]]
-  identifier = 'about'
-  name = 'about hugo'
+  identifier = 'posts'
+  name = 'blog'
   pre = "<i class='fa fa-heart'></i>"
-  url = '/about/'
+  url = '/posts/'
   weight = -110
 [[menu.main]]
-  name = 'getting started'
+  name = 'video'
   post = "<span class='alert'>New!</span>"
   pre = "<i class='fa fa-road'></i>"
-  url = '/getting-started/'
+  url = '/video/video'
   weight = -100
 
 

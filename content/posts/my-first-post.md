@@ -9,9 +9,17 @@ So I didn’t complete the Dragon’s Back Race this year. My main concern going
 
 Ultimately though what stopped me was the heat and cramp.
 
-![Tux, the Linux mascot](/images/image.jpeg)
+
+| ![Tux, the Linux mascots](/blog/images/image.jpeg)| 
+|:--:|
+| Image Credits - Fig.2 - 4K Mountains Wallpaper|
+
 
 The cramp started kicking in after around six hours on the descent coming down to the checkpoint at Ogwen but other than that I was feeling okay.
+
+
+{{< youtube L9vX8JJnWD4 >}}
+
 
 In retrospect I pushed too hard on the climb up Tryfan. By the time I reached the scrambling section near the top, the cramp had intensified and I had to be man-handled up a few sections with people pushing both my arse and my feet, as they wouldn’t lift under their own steam.
 
