@@ -51,3 +51,9 @@ url = "https://instagram.com/robertbrooks334"
   pre = "<i class='fa fa-heart'></i>"
   url = '/about/'
   weight = -110
+[[menu.main]]
+  identifier = 'itera'
+  name = 'itera'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/itera/'
+  weight = -110
