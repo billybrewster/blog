@@ -5,7 +5,7 @@ draft: false
 featured_image: 'images/db2019/210.JPG'
 ---
 
-Day -1, The Calm Before the Storm
+### Day -1, The Calm Before the Storm
 
 Lots of races badge themselves as the hardest in the world. It’s very subjective and impossible to compare something like the Spine to The Marathon Des Sables or Badwater they all have different challenges. The Dragons Back goes for a specific niche “The toughest mountain race in the world”- it’s a hard statement to argue against. For me the toughest element was the multi day nature of the event. I’ve done lots of long events, back to back long training days and completed a Bob Graham Round in just over 21 hours  but nothing on this scale. 195 miles over rugged mountainous terrain climbing (and descending) around 52,000 feet (almost twice the height of Everest from sea level).
 
@@ -23,7 +23,7 @@ One of the nice things about the race is that the majority of the event staff we
 
 Following the briefing there was an outdoor buffet and then it was time to head back to the hostel for an early night.
 
-Day 1 : 32 miles, 13,000ft ascent
+### Day 1 : 32 miles, 13,000ft ascent
 
 The race started at 7am so it was a very early start to drop my bags off, park the car and head to the start inside Conwy Castle. It’s one of the big selling points of the race and understandingly so – there were many spectators from many countries lining the castle walls draping flags and the atmosphere was electric. This was amplified by a local Welsh choir who made their way through a number of songs including you’ll never walk alone.
 
@@ -135,7 +135,7 @@ It was now time for bed to I headed back to the tent – a couple of other lads 
 
 
 
-Day 2 : 36 miles, 11,000ft ascent
+### Day 2 : 36 miles, 11,000ft ascent
 
 I didn’t sleep very well, waking up around 2 and couldn’t get back to sleep for ages. I was then woken again just after 4 by one of the guys in the tent who was obviously looking to get an early start - the amount of rustling going on preventing me from getting back to sleep.
 
@@ -179,7 +179,7 @@ On the outskirts of Dollgellau I was pleased to find the toll bridge open, unlik
 I finished the day in 90th place out of 316, another 44 people having dropped out and managed to place 4th on the last 6 mile section to the finish.
 
 
-Day 3 : 44 miles, 11,600ft ascent
+### Day 3 : 44 miles, 11,600ft ascent
 
 Today was a watershed day. At the pre-race briefing Shane Ohly had said that based on previous years around 40% or people would DNF. 30% on day 1, 30% on day 2, 30% on day 3 and the remainder in the last 2 days, the good news being that if you could make it to the end of the 3rd day you had a good chance of completing the race. 
 
@@ -225,7 +225,7 @@ Thankfully I got the overnight camp without incident and I’d had my best day s
 | Getting registered|
  
 
-Day 4: 42 miles, 7,500ft ascent
+### Day 4: 42 miles, 7,500ft ascent
 
 My feet were no better today but apart from that I was feeling pretty decent and my legs were fine so I set off in good spirits. My motivation in the race had changed too – when I set off from Conwy my aim was just to finish the race but over the past few days I’d moved up the field and was starting to think more competitively – how far up the field could I finish?
 
@@ -282,7 +282,7 @@ It’s my knees, they are really painful under the kneecap. I can walk on the fl
 At least I only had it in one knee……
 
 
-Day 5 : 40 miles, 7,00ft ascent
+### Day 5 : 40 miles, 7,00ft ascent
 
 
 I woke up with the misplaced hope that my knee may have miraculously healed overnight which of course it hadn’t and didn’t feel any different.
@@ -364,7 +364,7 @@ The journey home the following day was almost as epic as another days running. I
 On reflection it’s disappointing to have not completed the full route, but I still had a great race experience – it would have been much more disappointing to have retired much earlier on. 
 
 
-A few lessons learned
+### A few lessons learned
 
 1.	Being organised is super important, you can waste a lot of time faffing especially at the mid-day checkpoint. The less ‘stuff’ you have the fewer decisions you have to make and therefore minimise your faffing. One of the marshals told me that Jim Mann was the most organised person in the race – he had a sticker on his drop bag with a list of things he needed to do and was in and out of the mid-day checkpoint within minutes. 
 
@@ -401,6 +401,5 @@ I’ll certainly be back for another go at the next running of the race.
 
 For anyone who is interested here is the official behind the scenes video of the race:
 
-https://www.youtube.com/watch?v=7XPmQ-U6Lxk&feature=emb_title 
 
-
+{{< youtube 7XPmQ-U6Lxk >}}

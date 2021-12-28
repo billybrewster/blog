@@ -31,6 +31,10 @@ url = "https://facebook.com/rob.brooks.10297"
 name = "instagram"
 url = "https://instagram.com/robertbrooks334"
 
+[[params.ananke_socials]]
+name = "strava"
+url = "https://www.strava.com/athletes/7552454"
+
 
 [menu]
 [[menu.main]]

@@ -1,6 +1,6 @@
 ---
 draft: false
-featured_image: 'images/rob3.jpg'
+featured_image: 'images/IMG_2616.jpeg'
 ---
 
 Itera
