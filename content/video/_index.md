@@ -1,6 +1,7 @@
 ---
+title: "Videos"
 draft: false
-featured_image: 'images/image.jpeg'
+featured_image: 'images/IMG_2616.jpeg'
 ---
 
 

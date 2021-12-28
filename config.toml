@@ -47,7 +47,7 @@ url = "https://www.strava.com/athletes/7552454"
   name = 'video'
   post = "<span class='alert'>New!</span>"
   pre = "<i class='fa fa-road'></i>"
-  url = '/video/video/'
+  url = '/video/'
   weight = -100
 [[menu.main]]
   identifier = 'about'
