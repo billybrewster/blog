@@ -15,7 +15,7 @@ The drive in was thankfully uneventful - it was a beautiful sunny day and the at
 
 I wandered back down to the event centre for the pre-race briefing which was quite extensive. It also made me appreciate the scale of the event – 402 starters from around 30 countries and around 130 event staff including a number of medics and physios. 
 
- | ![Getting registered](/blog/images/db2019/177.JPG)| 
+ | ![Getting registered](/images/db2019/177.JPG)| 
 |:--:|
 | Getting registered|
 
@@ -27,7 +27,7 @@ Following the briefing there was an outdoor buffet and then it was time to head 
 
 The race started at 7am so it was a very early start to drop my bags off, park the car and head to the start inside Conwy Castle. It’s one of the big selling points of the race and understandingly so – there were many spectators from many countries lining the castle walls draping flags and the atmosphere was electric. This was amplified by a local Welsh choir who made their way through a number of songs including you’ll never walk alone.
 
- | ![Getting registered](/blog/images/db2019/210.JPG)| 
+ | ![Getting registered](/images/db2019/210.JPG)| 
 |:--:|
 | Getting registered|
  
