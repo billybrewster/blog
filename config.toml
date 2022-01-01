@@ -1,4 +1,4 @@
-baseURL = 'https://billybrewster.github.io/blog/'
+baseURL = 'https://robbrooks.run/'
 languageCode = 'en-us'
 title = 'Rob Brooks Run'
 theme = "ananke"
@@ -39,7 +39,7 @@ url = "https://www.strava.com/athletes/7552454"
 [menu]
 [[menu.main]]
   identifier = 'posts'
-  name = 'blog'
+  name = 'running'
   pre = "<i class='fa fa-heart'></i>"
   url = '/posts/'
   weight = -110
@@ -60,4 +60,10 @@ url = "https://www.strava.com/athletes/7552454"
   name = 'itera'
   pre = "<i class='fa fa-heart'></i>"
   url = '/itera/'
+  weight = -110
+[[menu.main]]
+  identifier = 'fastpacking'
+  name = 'fastpacking'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/fastpacking/'
   weight = -110
