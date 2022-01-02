@@ -45,20 +45,20 @@ I wasn’t feeling great at this point – I had supported a fast hour Bob Graha
 As we climbed further, we went into the clag which lasted until we reached the Carneddau – at this point the sun burnt through the cloud and revealed the full splendour of the Ogwen Valley – truly magnificent.
 
  
- | ![Getting registered](/blog/images/db2019/229.JPG)| 
+ | ![Getting registered](/images/db2019/229.JPG)| 
 |:--:|
 | Getting registered|
  
 
 A steep descent from Pen-Y-Ol-Wen brings you down to Llyn Ogwen and the half way (ish) point where you are able to access your drop bag.  I took my shoes off to air my feet and ate the sandwiches I’d packed. It was really warm now so I packed some extra water and set off again.
 
- | ![Getting registered](/blog/images/db2019/234.JPG)| 
+ | ![Getting registered](/images/db2019/234.JPG)| 
 |:--:|
 | Getting registered|
 
 I was now faced with the steep climb up Tryfan – truly a magnificent mountain (voted top UK mountain by Trail magazine readers) and really suits my strengths – very steep rocky climbing with bits of scrambling. I started to feel back to my normal self at this point and I felt like I flew up the climb, passing 57 people by the time I reached the top. 
 
-  | ![Getting registered](/blog/images/db2019/238.JPG)| 
+  | ![Getting registered](/images/db2019/238.JPG)| 
 |:--:|
 | Getting registered|
 
@@ -67,7 +67,7 @@ At the summit there are a couple of huge rock pillars named Adam and Eve. If you
 Unfortunately descending this type of terrain isn’t quite as pleasant and definitely not my strong point but at least the rocks were dry. Then there is another steep climb up to Glyder Fawr – I picked a good line up to the top which cut out a corner that most other people were taking and passed quite a few more people on this section. 
 
 
-  | ![Getting registered](/blog/images/db2019/240.JPG)| 
+  | ![Getting registered](/images/db2019/240.JPG)| 
 |:--:|
 | Getting registered|
 
@@ -80,18 +80,18 @@ The next section was the one I had been looking forward to the most – the asce
 There’s another steep rocky climb with lots of scrambling before you get onto the ridge proper. 
 
 
-  | ![Getting registered](/blog/images/db2019/252.JPG)| 
+  | ![Getting registered](/images/db2019/252.JPG)| 
 |:--:|
 | Getting registered|
 
 At this point it is a knife edge with steep drops on both sides and sections of exposed scrambling. It’s not difficult scrambling but the consequences of a fall can be severe and there were a few event staff at key locations advising the best lines to take. I really enjoyed this section although I was glad that it was dry and calm and progress was slow.
 
 
- | ![Getting registered](/blog/images/db2019/255.JPG)| 
+ | ![Getting registered](/images/db2019/255.JPG)| 
 |:--:|
 | Getting registered|
 
-  | ![Getting registered](/blog/images/db2019/256.JPG)| 
+  | ![Getting registered](/images/db2019/256.JPG)| 
 |:--:|
 | Getting registered|
 
@@ -99,21 +99,21 @@ At this point it is a knife edge with steep drops on both sides and sections of 
 
 The ridge leads onto the summit of Snowdon which was as busy as ever before descending down the Watkin Path and then onto the last climb of the day of Y Lliwedd which together with Crib Goch forms the popular Snowdon Horseshoe route.
 
-  | ![Getting registered](/blog/images/db2019/263.JPG)| 
+  | ![Getting registered](/images/db2019/263.JPG)| 
 |:--:|
 | Getting registered|
 
-  | ![Getting registered](/blog/images/db2019/264.JPG)| 
+  | ![Getting registered](/images/db2019/264.JPG)| 
 |:--:|
 | Getting registered|
 
-  | ![Getting registered](/blog/images/db2019/266.JPG)| 
+  | ![Getting registered](/images/db2019/266.JPG)| 
 |:--:|
 | Getting registered|
 
 From here I could see the campsite but the route cruelly veers away from it for another mile or so right to the end of the ridge before coming back on itself and dropping down into the Nantgwyant valley and the finish. I had a mild moment of panic when I was told by the race officials that I had missed out one of the checkpoints but I then realised that I’d forgot to dib at the very last one – few minutes added onto my time but disaster averted.
 
-  | ![Getting registered](/blog/images/db2019/268.JPG)| 
+  | ![Getting registered](/images/db2019/268.JPG)| 
 |:--:|
 | Getting registered|
  
@@ -141,19 +141,19 @@ I didn’t sleep very well, waking up around 2 and couldn’t get back to sleep 
 
 You can start any time between 6-9 and breakfast opens from 5. When you dib at the end of the day you receive a printout of your times and it also has a recommended start time and breakfast times.
 
-| ![Getting registered](/blog/images/db2019/273.JPG)| 
+| ![Getting registered](/images/db2019/273.JPG)| 
 |:--:|
 | Getting registered|
 
 Other than my sore feet I didn’t feel too bad which was reassuring. It was really hot again. I left camp and after a short road section the route climbs up to Cnicht (the Matterhorn of Wales) before a really steep grassy descent down the side of the fell to the remains of an old slate mine (there are a lot of these in Snowdonia). 
 
- | ![Getting registered](/blog/images/db2019/279.JPG)| 
+ | ![Getting registered](/images/db2019/279.JPG)| 
 |:--:|
 | Getting registered|
 
 There’s then another steep climb up onto the Molewyn Range where the views back over towards Snowdon and the rest of Snowdonia were breath-taking.
  
-| ![Getting registered](/blog/images/db2019/283.JPG)| 
+| ![Getting registered](/images/db2019/283.JPG)| 
 |:--:|
 | Getting registered|
 
@@ -163,7 +163,7 @@ I reached the control point in good time and refuelled with a tin of Baked Beans
 
 The next section over the Rhinogs was the part I had been least looking forward to, and in my opinion the roughest part of the whole race. A combination of rocks, scree, boulders interspaced with thick vegetation and steep ground and few paths ensured that progress was very slow.
 
-| ![Getting registered](/blog/images/db2019/296.JPG)| 
+| ![Getting registered](/images/db2019/296.JPG)| 
 |:--:|
 | Getting registered|
  
@@ -187,7 +187,7 @@ I finished yesterday strong and apart from my feet my body was holding up well a
 
 The race started with a gentle jog down through Dolgellau and then a climb up and along the spectacular Cadair Idris ridge. Unfortunately, this part was clagged in so there wasn’t much of a view but I caught up with Sean again who I had been running with yesterday and we ran this part together.
 
-| ![Getting registered](/blog/images/db2019/316.JPG)| 
+| ![Getting registered](/images/db2019/316.JPG)| 
 |:--:|
 | Getting registered|
  
@@ -195,7 +195,7 @@ The race started with a gentle jog down through Dolgellau and then a climb up an
 The route then drops down onto more grassy rolling terrain and on the next climb I noticed the field splitting with a number of people leaving the main path & contouring round the side hill directly in front. I checked the map and noticed that the next checkpoint was around the back of the hill so you didn’t have to go over the top of  it. I decided to contour round to the left and cut it out, unfortunately I didn’t get the line quite right and ended up too high so had to follow the fence down until I could cross at a gate further down – one to reccie for next time.
 Some more rolling hills & then we passed a campsite where I stocked up on my water and then came to the Tarren hills including a short out and back before a nice run in through muddy forest tracks to the town of Machynlleth and the next checkpoint.
 
- | ![Getting registered](/blog/images/db2019/318.JPG)| 
+ | ![Getting registered](/images/db2019/318.JPG)| 
 |:--:|
 | Getting registered|
 
@@ -203,7 +203,7 @@ This was the first time I’d seen any civilization during the race and the firs
 
 I visited the Co-Op and felt like a kid in a sweet shop I wanted to buy everything. I restricted myself to a few sandwiches and a large bottle of chocolate milk which I necked down – it felt like heaven after all the camp & trail food I’d been eating.
 
- | ![Getting registered](/blog/images/db2019/323.JPG)| 
+ | ![Getting registered](/images/db2019/323.JPG)| 
 |:--:|
 | Getting registered|
 
@@ -212,7 +212,7 @@ This was the now furthest I’d reccied, the rest of the route was totally unfam
 The 2nd half of the day also marked the exit of the race from Snowdonia and the landscape was noticeably different, a lot greener and rolling rather than soaring mountain peaks and ridges. The field had thinned out considerably now and for the first time in the race there were large stretches where I couldn’t see another runner. 
 
 
- | ![Getting registered](/blog/images/db2019/325.JPG)| 
+ | ![Getting registered](/images/db2019/325.JPG)| 
 |:--:|
 | Getting registered|
 
@@ -220,7 +220,7 @@ The last climb of the day up Pumlumon Fawr went by uneventfully, from the top it
 
 Thankfully I got the overnight camp without incident and I’d had my best day so far finishing 48th on the day out of 268.
 
-| ![Getting registered](/blog/images/db2019/332.JPG)| 
+| ![Getting registered](/images/db2019/332.JPG)| 
 |:--:|
 | Getting registered|
  
@@ -229,13 +229,13 @@ Thankfully I got the overnight camp without incident and I’d had my best day s
 
 My feet were no better today but apart from that I was feeling pretty decent and my legs were fine so I set off in good spirits. My motivation in the race had changed too – when I set off from Conwy my aim was just to finish the race but over the past few days I’d moved up the field and was starting to think more competitively – how far up the field could I finish?
 
-| ![Getting registered](/blog/images/db2019/333.JPG)| 
+| ![Getting registered](/images/db2019/333.JPG)| 
 |:--:|
 | Getting registered|
 
 After the first steep climb of the day there were a good few miles of runnable forest tracks which I made good progress on however I started to feel a niggle in my left knee. It wasn’t enough to stop me or slow me down but I hoped it wouldn’t get any worse …..
 
-| ![Getting registered](/blog/images/db2019/334.JPG)| 
+| ![Getting registered](/images/db2019/334.JPG)| 
 |:--:|
 | Getting registered|
  
@@ -246,20 +246,20 @@ After another 10 or so miles as I traversed another descent the pain in my knee 
 
 From the checkpoint it was a steady climb up to Dragon Fawr of which I walked it all. There was absolutely no air in the valley and it was now unbearably hot, sapping the energy out of me. I felt tired, my knee was hurting, my feet were hurting and I still had a long way till the end – it was the lowest part of my race so far. 
 
-| ![Getting registered](/blog/images/db2019/343.JPG)| 
+| ![Getting registered](/images/db2019/343.JPG)| 
 |:--:|
 | Getting registered|
  
 
 The pain wasn’t as bad going up , but when I reached the top of Dragon Fawr and attempted to run down it was back straight away and worse than ever. I stopped a few times, took some more painkillers but after about a mile I accepted that running was now out of the question – even walking was painful. It was going to be a death march for the last 15 miles and then I still had another 40 to do tomorrow. I just had to put that out of my head for now & concentrate on just getting to the end of today.
 
- | ![Getting registered](/blog/images/db2019/347.JPG)| 
+ | ![Getting registered](/images/db2019/347.JPG)| 
 |:--:|
 | Getting registered|
 
 Those last miles were definitely the lowest of the race, many people passed me asking if I was ok which was demoralising, but I finally limped into the overnight camp.
 
- | ![Getting registered](/blog/images/db2019/352.JPG)| 
+ | ![Getting registered](/images/db2019/352.JPG)| 
 |:--:|
 | Getting registered|
 
@@ -297,7 +297,7 @@ There was then a long section on undulating road which would have been good runn
 
 By the time I reached the support point at Usk reservoir I felt tired and was glad to be able to have a rest. The next section was through undulating forest tracks before the final mountainous terrain along the Black Mountain range of the Brecon Beacons.
 
-| ![Getting registered](/blog/images/db2019/371.JPG)| 
+| ![Getting registered](/images/db2019/371.JPG)| 
 |:--:|
 | Getting registered|
  
@@ -309,7 +309,7 @@ Although I had experienced rough patches and lows in the preceding 4 days, I’d
 The further I climbed the worse I felt. My pace slowed and I started getting stomach cramps which led me to have to relieve myself. I thought I might have felt better after that but I didn’t. I had to go another 3 or 4 times -  I don’t want to go into a lot of detail but suffice to say I didn’t have very much fluid left in me by then end of it.
 
 
- | ![Getting registered](/blog/images/db2019/373.JPG)| 
+ | ![Getting registered](/images/db2019/373.JPG)| 
 |:--:|
 | Getting registered|
 
@@ -345,13 +345,13 @@ It seemed to take an age to cover the couple of miles back down to the road espe
 
 When we reached the road a support car was waiting to take us back to the last checkpoint where the medical team, Alli and Tom, departed and then we drove back to race finish. I can’t express my that to these folks enough, they truly got me out of a bad patch and were both really nice people too.
 
- | ![Getting registered](/blog/images/db2019/377.JPG)| 
+ | ![Getting registered](/images/db2019/377.JPG)| 
 |:--:|
 | Getting registered|
 
 The car journey back gave me a chance to reflect on the days events and it started to sink in that although I’d came incredibly close, I’d failed to complete the race.  This was really hammered home when I arrived back at race HQ in. The event has booked out a huge sports hall in which all the racers and families/supporters were gathered. There was a huge buffet, the beer was flowing and everyone was in good spirits.
 
- | ![Getting registered](/blog/images/db2019/379.JPG)| 
+ | ![Getting registered](/images/db2019/379.JPG)| 
 |:--:|
 | Getting registered|
 

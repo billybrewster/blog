@@ -19,12 +19,12 @@ The forecast wasn’t good. For the past couple of months, we’d had an unprece
  
 During the Friday night I didn’t get that much sleep mostly because of the howling wind and rain outside the bunkhouse but when I got up around 8-30 it had stopped raining and I could see the top of Moel Siabod – the first peak which lifted my spirits.
  
-| ![](/blog/images/pb2018/2.png)| 
+| ![](/images/pb2018/2.png)| 
 |:--:|
 
 Breakfast in the village café and I was ready for the off on the first leg with Jon and Danny. The first climb is the biggest of the round but it’s not too steep and on a good path for most of the way. I made good progress and was 10 mins up by the time we reached the top.
 
-| ![](/blog/images/pb2018/3.png)| 
+| ![](/images/pb2018/3.png)| 
 |:--:|
  
 We were now however in the full force of the wind and we were getting blown sideways on the grassy descent. At one point Jon and Danny ran in front of me to try and shelter me from the worst of it.
@@ -33,12 +33,12 @@ The next part of the leg is very bland – there’s not any big climbs but ther
  
 It also has some tricky navigation – there are a number of tops which are nothing more than rocky outcrops, some aren’t even named. We got a few lines wrong on this part but nothing drastic and by the time we reached the quarries at just over half way point in the leg I was bang on schedule after taking a quick break.
 
-| ![](/blog/images/pb2018/4.png)| 
+| ![](/images/pb2018/4.png)| 
 |:--:|
  
 The 2nd half of the leg over the Molewyns is much more enjoyable – there’s some good running & climbing and some fantastic views. Unfortunately, the weather deteriorated at this point. The wind had never dropped but is started raining too so was hitting us horizontally & stinging my face even through my hood.
 
-| ![](/blog/images/pb2018/5.png)| 
+| ![](/images/pb2018/5.png)| 
 |:--:|
  
 The rain stopped by the time we got to the final climb of the leg, Cnicht. Although not as big a climb as Moel Siabod its tougher as its much steeper and rougher – there’s no path so it’s a case of making a beeline to just off the top (not straight to the top as there’s some big cliffs you definitely don’t want to end up on) through thick vegetation & occasional scree. Jon commented that I was climbing well and I was feeling good at this point
@@ -51,17 +51,17 @@ I was around 15 minutes down on schedule and I realised that making it round in 
  
 Catherine had everything setup for me, I ate a tin of cold beans & sausages, some Lucozade and then I was ready for the next leg with Jim and Gemma.
 
-| ![](/blog/images/pb2018/6.png)| 
+| ![](/images/pb2018/6.png)| 
 |:--:|
  
 We didn’t get a very good line up the first climb on the next section up to Bryn Banog ending up in boggy ground & reeds but once we got past that made good progress up to the highest point on the leg Moel Hebog. After this I had a bit of a wobble so stopped for 5 minutes to rest and eat a cheese sandwich whilst trying to guess what pasties Paul had bought at Greggs on the way across.
 
- | ![](/blog/images/pb2018/7.png)| 
+ | ![](/images/pb2018/7.png)| 
 |:--:|
 
 That sorted me out and I started to feel better again – the sun was still shining, the wind dropped and the next few miles were really enjoyable.
 
-| ![](/blog/images/pb2018/8.png)| 
+| ![](/images/pb2018/8.png)| 
 |:--:|
  
 As we climbed up Trum Y Ddysgl and the Nantille Range it started to get dark so it was headtorch time. The ridge is very narrow in places with some steep drops so we had to be careful in the dark, especially on the last part where it was very rocky and involves a fair amount of down climbing and use of your hands.
