@@ -1,31 +1,15 @@
 ---
-title: "Videos"
+title: "Fastpacking"
 draft: false
-featured_image: 'images/IMG_2616.jpeg'
+featured_image: 'images/fastpacking/fastpacking.jpeg'
 ---
 
+Pennine Way
+Hadrians Wall Path
+Cleveland Way
+Tyne and Wear Heritage Trail
+Iceland
+OMM 2019/2020
 
-{{< youtube L9vX8JJnWD4 >}}
-
-&nbsp;
-
-{{< youtube rofg7n4KSxo >}}
-
-&nbsp;
-
-{{< youtube I8HxHBdM-G8 >}}
-
-&nbsp;
-
-{{< youtube 0L97FUoea3w >}}
-
-&nbsp;
-
-{{< youtube ul2SCCTsKzM >}}
-
-&nbsp;
-
-{{< youtube mhyhRI4QtEw >}}
-
-
+My rig :
 
