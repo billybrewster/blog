@@ -41,7 +41,7 @@ url = "https://www.strava.com/athletes/7552454"
   identifier = 'posts'
   name = 'running'
   pre = "<i class='fa fa-heart'></i>"
-  url = '/posts/'
+  url = '/running/'
   weight = -110
 [[menu.main]]
   name = 'video'
