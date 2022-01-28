@@ -2,6 +2,7 @@
 title: "Itera"
 draft: false
 featured_image: 'images/itera.jpeg'
+
 ---
 
 In August 2022 I will be taking on a new challenge, an Adventure Race!!
@@ -17,3 +18,5 @@ My partners in crime are
 {{< youtube BtWphDQ1GEc >}}
 
 https://www.itera.co.uk/
+
+{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview="true" >}}
