@@ -5,6 +5,16 @@
     <link>https://robbrooks.run/categories/</link>
     <description>Recent content in Categories on Rob Brooks Run</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://robbrooks.run/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jan 2022 16:32:00 +0000</lastBuildDate><atom:link href="https://robbrooks.run/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>running</title>
+      <link>https://robbrooks.run/categories/running/</link>
+      <pubDate>Tue, 25 Jan 2022 16:32:00 +0000</pubDate>
+      
+      <guid>https://robbrooks.run/categories/running/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

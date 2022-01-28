@@ -1,19 +1,30 @@
 baseURL = 'https://robbrooks.run/'
 languageCode = 'en-us'
 title = 'Rob Brooks Run'
-theme = "ananke"
+theme = ["ananke", "hugo-shortcode-gallery"]
+timeout = 600000 # This is requiered for larger galleries to be build
 
 [params]
   text_color = ""
-  author = ""
+  author = "Rob Brooks"
   favicon = ""
   site_logo = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
   featured_image = "images/rob.jpeg"
+  recent_posts_number = 10
+  show_reading_time = "true"
+  loadJQuery = "true"
+  galleryLoadJQuery = "true"
+  galleryRowHeight    = 200
+  galleryMargins      = 10
+  galleryResizeOptions= "800x800 q88 Lanczos"
+  galleryPreviewType  = "blur"
+  galleryThumbnailHoverEffect = "enlarge"
 
-
+[imaging.exif]
+    includeFields = ".*"
     
 [[params.ananke_socials]]
 name = "twitter"
