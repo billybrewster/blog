@@ -56,7 +56,7 @@ A quick countdown and then we were off!!
 
 Everyone started running and I had to really resist the urge to join them – stick to the plan and don’t be stupid I kept on telling myself. I had prepared myself for being at the back end of the field and no-one else mattered. As long as I could move at 2-3 miles an hour in the early stages and then 2 miles an hour later in the race then I’d make the cutoffs including the maximum 8 hour stay in each checkpoint.
 
-I managed to find I was of managing my cough – most of the time I tried to cough shallowly and if I needed a deep cough then I’d kneel and brace myself with my poles which just about made the pain bearable although it wouldn’t have made for a particularly gracious gait for anyone watching me.
+I managed to find a way of managing my cough – most of the time I tried to cough shallowly and if I needed a deep cough then I’d kneel and brace myself with my poles which just about made the pain bearable although it wouldn’t have made for a particularly gracious gait for anyone watching me.
 
 Once up onto the Kinder plateau it began to blizzard and I decided to stop and put on my goggles – no point in taking any chances this early in the race. Sadly no view was to be had because of the thick clag so it was just a case of pushing on to Snake Pass where Claire and Sarth were waiting to cheer me through. A lot of this section is flagged but most of the flags were submerged in snow melt or covered in ice so progress wasn’t quick.
 
@@ -250,19 +250,19 @@ A familiar pattern was now forming :
 -	Swear
 -	Repeat for hours on end
 
-I have a friend Natasha who has a holiday home in Slaggyford and always gives support to the Spine racers (she;s known as the Angel of Slaggyford), but unfortunately it was very early morning as I passed though so I wasn’t expecting to see her.
+I have a friend Natasha who has a holiday home in Slaggyford and always gives support to the Spine racers (she's known as the Angel of Slaggyford), but unfortunately it was very early morning as I passed though so I wasn’t expecting to see her.
 
 It began to get light as I reached the abode of Rastaman Ralph. Anyone who has done the Spine or Pennine Way will recognise this residence and possibly had the pleasure of meeting its proprietor. It is just before you climb onto the quagmire that is Blenkinsopp Common. 
 
 It feels like something has gone badly wrong here. There is junk and rubbish scattered all over the yard, and few downbeaten caravans and chickens roaming everywhere.
 
-The last time I’d been through here was during the night with Mark during a Spine training run a few years ago. We were greeted by the Rasta smoking a joint and slurping from a can of Stella who proceeded to show us some videos from his Youtube channel in which he surprises various Spine racers and interviews them. It was a true Deliverance moment and we weren’t sure if we were going to escape with our lives.
+The last time I’d been through here was during the night with Mark during a Spine training run a few years ago. We were greeted by the Rasta smoking a joint and slurping from a can of Stella who proceeded to show us some videos from his Youtube channel in which he ambushes various Spine racers and interviews them. It was a true Deliverance moment and we weren’t sure if we were going to escape with our lives.
 
 Here is a gem from the previous summers race:
 
 {{< youtube OZoz0jFjqtg  >}}
 
-Sadly the Rasta didn’t make an appearance today, I could have done with the distraction. The only sign of life being the chickens.
+Sadly the Rasta didn’t make an appearance today, I could have done with the distraction. The only sign of life was the chickens.
 
 I made a brief stop at Greenhead for some food and a hot drink before setting off up the much nicer Hadrians Wall section. Here I met Nuno Santos, a Portuguese runner who was suffering badly with feet issues and Nigel Martin, a local runner from Hexham.
 
@@ -299,6 +299,8 @@ I slept terribly in Bellingham, the facilities consisted of a large hall with lo
 
 My feet had held out well, other than a few small blisters and some swelling the only other problem I had was soreness on the balls of my feet. The medics patched them up with some k tape and moleskin and after a bacon/egg sarnie I was ready to leave.
 
+Because of the storm the section between Bellingham any Byrness had been removed and we were to be transported by car to start the final section. This reduced the overall race distance by around 9 miles taking into consideration the additional distance from the detour on the previous section.
+
 Upon entering the car that was to transport me to the start of the next stage I was informed I had 3 options :
 
 1.	Sleep mode – relaxed driving mode with the possibility of getting some sleep during the journey.
@@ -329,7 +331,12 @@ I spent a few minutes taking it all in and finally let myself believe that I was
 
  ![](/images/spine2022/image16.jpeg)
 
-Pushing on from there and on the climb up to the Cheviot I met my good friend and fellow Saltwell Harrier Iain Armstrong. He’d got up with the larks to come up and see me and it was great to see him. We walked for a little as far as Auchorpe Cairn before he wished me well for the rest of the race and departed back to Langleeford.
+Pushing on from there and on the climb up to the Cheviot I met my good friend and fellow Saltwell Harrier Iain Armstrong. He’d got up with the larks to come up and see me and it was great to see him. 
+
+
+{{< youtube tpiQHyvT74s  >}}
+
+We walked for a little as far as Auchorpe Cairn before he wished me well for the rest of the race and departed back to Langleeford.
 
  ![](/images/spine2022/image35.jpeg)
 
