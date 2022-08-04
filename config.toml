@@ -78,3 +78,9 @@ url = "https://www.strava.com/athletes/7552454"
   pre = "<i class='fa fa-heart'></i>"
   url = '/fastpacking/'
   weight = -110
+[[menu.main]]
+  identifier = 'arctic'
+  name = 'arctic'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/arctic/'
+  weight = -110
