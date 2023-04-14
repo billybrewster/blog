@@ -35,6 +35,10 @@ First navigational challenge of the day was finding the start line which was abo
 
 Down to the start line, a final briefing from Shane and then were off at 8:30 on the dot.
 
+ | ![The Start line before all the runners arrived](/images/northerntraverse2023/image14.jpeg)| 
+|:--:|
+| The Start line before all the runners arrived|
+
 I hadn’t reccied any of the route so apart from the few sections I was already familiar with it was all new to me which I found quite exciting. I knew where the checkpoints were and roughly what the terrain was like between them – what more is there to know really.
 
 I’ve not been to St Bees before but the village and coastline is truly stunning. We ran up the coast for around 3 miles before turning inland, the Lakeland fells beckoning in the distance.
@@ -61,9 +65,17 @@ Another climb followed up to Grisedale Tarn at which point it became bitterly co
 
 From Grisdale Tarn another long descent along a wet rocky path followed and at this point Nikki Sommers caught me up. I’d briefly met Nikki in previous events but never really had the chance to talk to her properly and we ran the last few miles into Patterdale together as the sun began to set.
 
+ | ![Arriving at Patterdale](/images/northerntraverse2023/image12.jpeg)| 
+|:--:|
+| Arriving at Patterdale|
+
 As we ran down we agreed that if we were both ready at the same time we’d set off together into the first night section.
 
 Harra and Sharon were standing outside the school and cheered us to the checkpoint which was nice, it’s always good to see friendly faces in these events.
+
+ | ![A Harra welcome](/images/northerntraverse2023/image13.jpeg)| 
+|:--:|
+| A Harra Welcome|
 
 Geoff Capps who I’d supported on a Bob Graham Round last year arrived as we were preparing to leave and we shared some banter. I was very impressed with his taping of his feet - they were almost entirely covered including his toes and pretty much still intact. I hadn’t pre-taped my feet, choosing to cover them in Gurney Goo which I re-applied before we left.
 
@@ -92,6 +104,10 @@ As we neared Kirby Stephen the conversation to the topic of sleep. Alex was defi
 Alex dropped back a little at this point so we parted ways and pushed on with Fernando still following and cursing behind us.
 
 As daylight approached and with the prospect of a sleep stop in Kirby Stephen, I was feeling re-energized, and Nikki seemed to share the sentiment. Together, we revisited our sleep strategy, considering our options for maximizing the daylight ahead. After some debate, we ultimately decided to reverse our previous decision and opt for a power nap at some point along the next section of our journey.
+
+ | ![24 hours in, selfie time](/images/northerntraverse2023/image2.jpeg)| 
+|:--:|
+| 24 hours in, selfie time|
 
 A downside of this was that my feet would have less chance to recover, they were in a worse state than I’d hoped showing visible signs of maceration and were pretty sore. With all of the rain that had feel in the weeks prior to the race the ground was saturated, and the Gurrney Goo I’d applied hadn’t lasted - in retrospect I should have re-applied it at Shap.
 
@@ -194,13 +210,18 @@ Shortly after as we approached Ingleby Cross Nikki suggested having a 10 minute 
 
 I was bitterly cold once we got going again, definitely below zero but soon warmed up on climb through the woods and caught up with Ollie again. 
 
-At this point Nikki attempted to impart some race etiquette to Ollie. “Frankly I don’t care if you have 8 kids, or no kids but during the night sections I need to be able to talk to me and tell me about them.
-
-We never did find out how many kids Ollie has.. (if any)…
 
 We were now travelling into a beautiful sunrise with the Cleveland Hills beckoning in the distance. For me this was a real highlight of the race, I was tired but it wasn’t far till the last checkpoint at Lordstones and we were still moving well.
 
 People often ask why I take part in these type of events that from the outside can seem quite intimidating. There are many reasons but this is definitely one of them. Running into the first light of a new day with a beautiful sunrise in great company is truly one of the best experiences anyone could ever have, and sadly one that many people never will.
+
+ | ![Running into a new day](/images/northerntraverse2023/image9.jpeg)| 
+|:--:|
+| Running into a new day|
+
+ | ![Running into a new day](/images/northerntraverse2023/image10.jpeg)| 
+|:--:|
+| Running into a new day|
 
 
 ### Lordstones to Robin Hoods Bay
@@ -213,9 +234,17 @@ As we prepared to leave I contemplated the mountain of uneaten food I still had 
 
 I received a message from my friend Mark (Clarkson) encouraging me to “get going and drop the snoozers” and so we did, making good progress over the next section up to Round Hill.
 
+ | ![On the North York Moors](/images/northerntraverse2023/image1.jpeg)| 
+|:--:|
+| On the North York Moors|
+
 It was around 5 miles from Round Hill to the Lion Inn, and by the time we reached Bloworth Crossing I was flagging badly. The old railway line stretched out into the distance for what seemed like forever and just as we turned a corner we were greeted by what seemed like the same view. We were also being buffeted by a fairly strong headwind which slowed our progress and dampened our spirits.
 
 This was undoubtably the hardest part of the race for me so far, but Nikki kept me going. It’s a sign of a good team player who is aware of when someone is having a bad patch and helps to get them through it and she did a great job.
+
+ | ![Suffering but getting there](/images/northerntraverse2023/image7.jpeg)| 
+|:--:|
+| Suffering but getting there|
 
 Eventually the Lion Inn appeared on the horizon after at least 50 corners and false dawns.
 
@@ -224,6 +253,10 @@ Hot chocolate, a latte and 10 minute power nap in a quiet corner of the pub besi
 As I dozed I became hyper aware of everything around me from the rhythm of my breathing, the crackling of the fire, muted conversations and other sounds. It was a very surreal feeling but also soothing and I welcomed it.
 
 After leaving the pub I found the next few miles quite hard in the wind and bleak terrain, but as we crested the top of the moor the landscape opened up and… the sea!! We could see the North Sea. It was far off and in the distance and we still had over 20 miles to go but the end was finally in sight. This perked me up no end and I felt excited to be entering the final stage of the race. 
+
+ | ![Getting across the moors](/images/northerntraverse2023/image4.jpeg)| 
+|:--:|
+| Getting across the moors|
 
 A few hours later we finally dropped off the moor into the pretty little village of Glaisdale where we refreshed ourselves with Coke and Ice Cream as it was pleasantly warm now that we were out of the wind.
 
@@ -249,9 +282,22 @@ In the past competitors would have no idea where other runners were around them 
 
 Logically I knew that it was extremely unlikely he would catch us with only about 4 miles to go as long as we kept moving at a decent pace, but at the same time I knew nothing about him or how fast he could move so we didn’t let up. All the way down the coastline we sprinted until we finally reached Robin Hoods Bay and ran over the finish line together.
 
+ | ![Running to the finish](/images/northerntraverse2023/finish.png)| 
+|:--:|
+| Running to the finish|
+
 It felt amazing to reach the end and it was a special moment to cross the finish line with Nikki after running together for the past ~50 hours.
 
+ | ![The end](/images/northerntraverse2023/image6.jpeg)| 
+|:--:|
+| The end|
+
+
 The tide was about a kilometre out so we had to make do with dipping our feet in a rock pool but we had done it – joint 10th place in 60 hours and 46 minutes and Nikki was 2nd female behind Lizzy who had a strong finish (and strong race overall).
+
+ | ![Dipping our toes in the North Sea](/images/northerntraverse2023/image5.jpeg)| 
+|:--:|
+| Dipping our toes in the North Sea|
 
 ### Epilogue
 
