@@ -151,7 +151,7 @@ Nikki was going through a rough patch at this point so we lightened the mood wit
 
 It seemed to work and before we knew it we were coming down into Richmond in the last light of day at 7:10pm – perfect timing.
 
-We knew that we needed to sleep at Richmond and after about an hour of faffing and eating we agreed to meet back inside at 9:45pm with an aim to leave to 10:10,pm giving us 3 hours at the checkpoint in total. Sleeping was outside in tents, as with all the other checkpoints.
+We knew that we needed to sleep at Richmond and after about an hour of faffing and eating we agreed to meet back inside at 9:45pm with an aim to leave to 10:10pm giving us 3 hours at the checkpoint in total. Sleeping was outside in tents, as with all the other checkpoints.
 
 
 ### Richmond to Lordstones
@@ -159,11 +159,11 @@ We knew that we needed to sleep at Richmond and after about an hour of faffing a
 
 I couldn’t sleep. I was warm enough but I just couldn’t find a position that was comfortable I was just too sore and my hips here aching. Consequently, I dozed for maybe 10 minutes but didn’t sleep properly.
 
-When I went back inside Nikki was just preparing to leave. She also had trouble sleeping and had got up earlier to discover Lizzie still in the checkpoint. She was planning on chasing her down and challenging for the lead – she apologised to me but there was no need. It was a race and she had a chance of winning, I would have done exactly the same thing in her shoes. I wished her all the best and tried to get my stuff sorted as soon as possible so I could head out and try to catch her up.
+When I went back inside Nikki was just preparing to leave. She also had trouble sleeping and had got up earlier to discover Lizzie still in the checkpoint. She was planning on chasing her down and challenging for the lead – she apologised to me but there was no need. It was a race and she had a chance of winning, I would have done exactly the same thing in her shoes (or even my own shoes). I wished her all the best and tried to get my stuff sorted as soon as possible so I could head out and try to catch her up.
 
 Getting ready as soon as possible didn’t go too well as I had to spend a bit of time on my feet – they had dried out a little but were still showing signs of maceration and were sore and blistered.
 
-Another runner, Ollie Henderson, was also getting to leave and asked if I was ready but I had a full kit explosion going on so he ventured into the night by himself.
+Another runner, Ollie Harrison, was also getting to leave and asked if I was ready but I had a full kit explosion going on so he ventured into the night by himself.
 
 
 Despite not having slept I felt quite sprightly leaving Richmond and set off at a light jog at around 10:20pm. The sprightly feeling didn’t last long as I realised I’d left my poles behind and had to retrace my steps to retrieve them, wasting around 10 minutes.
@@ -172,7 +172,7 @@ I was intrigued by Lizzie’s strategy - I’d been surprised to see her still i
  
 A full sleep cycle is around 90 minutes and in a normal night most people have multiple of them. Trying to hit that in a race however is difficult if not impossible.
 
-Whatever Lizzie’s strategy it had obviously worked for her. I checked the tracker not and saw that she had put the hammer down after leaving and opened up a gap to Nikki. She was also quickly catching another group of runners in front of her.
+Whatever Lizzie’s strategy it had obviously worked for her. I checked the tracker and saw that she had put the hammer down after leaving and opened up a gap to Nikki. She was also quickly catching another group of runners in front of her.
 
 At this point I calculated I was around 35 minutes behind her (Nikki).
 
@@ -200,7 +200,7 @@ I felt both massively relieved, and at the same time massively angry at myself �
 
 On a positive note my blister pain had eased to a dull pain and was bearable to run/walk on so I decided to push on and re-commence the chase.
 
-In a little while I spotted headtorches ahead – first I caught Marco  and then I spotted Nikki’s unmistakable purple and black socks ahead.
+In a little while I spotted headtorches ahead – first I caught Marco  and then I spotted Nikki’s unmistakable purple and black socks.
 
 It was good to be re-united. Ollie was just ahead and we caught him up and ran together for a while. 
 
@@ -268,7 +268,7 @@ The next section through some native woodland was very pretty and I enjoyed it. 
 
 A small climb and some cow dodging and we were back on moorland. Incredibly boggy moorland. Nikki set a good pace through this section to get through it and onto the road before darkness descended which we achieved.
 
-I was tired and aching and my feet were in pieces but I knew I could easily push through that for the next few hours. I didn’t have to worry about trying to keep my feet dry, we just ploughed through the bogs. 
+I was tired and aching and my feet were in pieces but I knew I could easily push through that for the next few hours. I didn’t have to worry about trying to keep my feet dry any more, we just ploughed through the bogs. 
  
 It had reached the point in the race where barring a disaster nothing stood between us and the finish. The sunset was amazing and this section of the race was a real highlight.
 
@@ -293,6 +293,10 @@ It felt amazing to reach the end and it was a special moment to cross the finish
 | The end|
 
 
+{{< youtube CEa74aci0hI   >}}
+
+
+
 The tide was about a kilometre out so we had to make do with dipping our feet in a rock pool but we had done it – joint 10th place in 60 hours and 46 minutes and Nikki was 2nd female behind Lizzy who had a strong finish (and strong race overall).
 
  | ![Dipping our toes in the North Sea](/images/northerntraverse2023/image5.jpeg)| 
@@ -314,3 +318,6 @@ One of the great things about the race (and others) is the support team and volu
 I was also pleased to see that most of the people I ran with finished the race. I was particularly pleased to see my friend Nick (Wishart) had a successful race. I’d spoken to him just before we boarded the bus on Friday and he wasn’t sure whether he’d manage to finish due to an injury but he dug in and got it done.
 
 Now time for some rest and later in the year I’m volunteering at the Summer Spine in June so will be good to give something back.
+
+
+[A nice wrrite up of the race](https://www.northerntraverse.com/news/2023/4/3/a-resounding-win-for-lizzie-faithfull-davies-at-the-silva-northern-traverse) 
