@@ -2,7 +2,7 @@
 title: "Northern Traverse 2023"
 date: 2023-04-10T16:32:00Z
 draft: false
-featured_image: 'images/pb2018/1.png'
+featured_image: 'images/northerntraverse2023/finish.png'
 ---
 
 
@@ -24,6 +24,10 @@ I’d completed the Spine earlier in the year and wasn’t sure how my body woul
 I hadn’t done a great amount of training since then so was relying on my Spine fitness to get me through, although in these types of events the mental aspect is often more important.
 
 I had drove down to the park and ride just outside Robin Hoods Bay on Friday dinnertime where I dumped my car and jumped on a bus which took us to the start at St Bees 4 hours later. Quick registration and then I pitched my tent to bed down for the night. 
+
+ | ![Camping at St Bees](/images/northerntraverse2023/image16.jpeg)| 
+|:--:|
+| Camping at St Bees|
 
 ### St Bees to Patterdale
 
