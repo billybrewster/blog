@@ -326,21 +326,18 @@ Now time for some rest and later in the year I’m volunteering at the Summer Sp
 
 I used the followung kit during the race. I did have additional kit in my drop bag and a larger pack in case the weather turned nasty but didn't end up neding to use any of it.
 
-Innov8 Terraultra 270 (changed into larger pair at Kirby Stephen)
-More Mile socks (changed at each checkpoint)
-Sealskinz waterproof socks (ankle length). Wore from Kirby Stephen - should have worn from the start
-Higher State running shorts
-Kalenji tights
-
-Helly Hanson base layer
-OMM Contour Running Fleece
-Montane Protium Hoodie
-Montane Atomic Waterproof Jacket
-
-Berghaus Primaloft Gloves
-Montane Waterproof Mitts
-
-Innov8 3 in 1 race pack (12l capacity)
+* Innov8 Terraultra 270 (changed into larger pair at Kirby Stephen)
+* More Mile socks (changed at each checkpoint)
+* Sealskinz waterproof socks (ankle length). Wore from Kirby Stephen - should have worn from the start
+* Higher State running shorts
+* Kalenji tights
+* Helly Hanson base layer
+* OMM Contour Running Fleece
+* Montane Protium Hoodie
+* Montane Atomic Waterproof Jacket
+* Berghaus Primaloft Gloves
+* Montane Waterproof Mitts
+* Inov-8 3 in 1 race pack (12l capacity)
 
 
 
