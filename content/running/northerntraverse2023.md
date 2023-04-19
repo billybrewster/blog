@@ -337,7 +337,9 @@ I used the followung kit during the race. I did have additional kit in my drop b
 * Montane Atomic Waterproof Jacket
 * Berghaus Primaloft Gloves
 * Montane Waterproof Mitts
+* Higher State Waterproof pants
 * Inov-8 3 in 1 race pack (12l capacity)
+* buff * 3
 
 
 
