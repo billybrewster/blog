@@ -1,6 +1,7 @@
 ---
 title: "Arctic Spine Race 2024"
 draft: false
+date: 2024-02-17T16:32:00Z
 featured_image: 'images/arcticspine2024/arctic.jpeg'
 ---
 

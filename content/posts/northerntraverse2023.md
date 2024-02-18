@@ -6,9 +6,6 @@ featured_image: 'images/northerntraverse2023/finish.png'
 ---
 
 
-
-### Northern Traverse 2023
-
 What do you call a cheese that isn't yours? Nacho cheese!
 
 It’s around 4am in the morning and I’m trudging through the moors above Shap on a cold crisp spring night. I’ve been moving pretty much non-stop for about 20 hours. It’s the witching hours just before dawn and I’m at a low point both mentally and physically.
