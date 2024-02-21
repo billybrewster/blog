@@ -38,7 +38,7 @@ I suppose a lot of it was fear of the unknown. It was the inaugural running of t
 
 This race was different, self sufficiency was the key. There were 3 checkpoints en-route where we would have access to a drop bag and be provided with hot water and fuel resupply but that was it. Sleeping would be outside in our tents as it would be anywhere else on the trail.
 
-The route wasn’t flat either, it went through several mountain ranges rising up to 1150 metres at its highest point. Some of the route would be on snowmobile trails but most of it wouldn’t so breaking trail was a real possibility.
+The route wasn’t flat either, it went through several mountain ranges rising up to 1150 metres at its highest point with about 24,000ft of climbing. Some of the route would be on snowmobile trails but most of it wouldn’t so breaking trail was a real possibility. At this time of the year we would have more than 16 hours of darkness each day to contend with.
 
 There was no data from previous races to draw from – no previous competitors to compare notes or race strategies, no Facebook groups full of advice (maybe that’s not such a bad thing), no idea if the race was even possible.
 
@@ -46,11 +46,11 @@ In this day and age apart from the depths of the ocean the entire globe has been
 
 Ultimately though if Phil didn’t think I was capable of competing in the race he wouldn’t have let me enter and I drew some comfort from that.
 
-My pre-race plan had been to move for around 18 hours a day with 6 hours of “rest”. 3 hours of sleep plus time either side of that to make camp, melt snow eat and dry wet kit. This meant covering 36 miles a day and moving at. 2 miles an hour. Although this sounds easy my previous experience out here told me otherwise and I didn’t feel confident but I’d certainly give it a try.
+My pre-race plan had been to move for around 18 hours a day with 6 hours of “rest”. 3 hours of sleep plus time either side of that to make camp, melt snow eat and dry wet kit. This meant covering 36 miles a day and moving at around 2 miles an hour. Although this sounds easy my previous experience out here told me otherwise and I although didn’t feel confident I was certainly up for the challenge.
 
 Pre race packing was fun trying to fit all of the gear and 14kg of food into my bags. The say pack your fears but I’ve never understood how packing a case full of spiders would be of any use and in any case I couldn’t fit them in anyway.
 
-
+&nbsp;
 
 | ![The forecast for the week ahead was settled but cold](/images/arcticspine2024/IMG_3286.jpeg)|
 |:--:|
@@ -69,9 +69,11 @@ Upon arrival at the STF (Swedish Youth Hostel) Phil showed us to our accommodati
 
 I was sharing with Dutch athletes Robi Dattatreya and Robin Imthorn, who I’d met at the train station, and also Mael Jouan from France.
 
+I also caught up woth Rob Hopkins with whom I'd been on the training course and was the only person other than myself to have signed up for the race last year.
+
 Our hire kit (ski’s and pulks) wasn’t ready yet so I had a leisurely stroll along to the main village and purchased some last minute supplies from the well-stocked supermarket.
 
-Upon returning I discovered Robin had been moved to a separate room to isolate as he’d been suffering from a nasty cough and a decision would be made tomorrow whether he would start the race.
+Upon returning I discovered Robin had been moved to a separate room to isolate as he’d been suffering from a nasty cough and a decision would be made tomorrow whether he would start the race (unfortunately he didn't).
 
 Myself and Robi then frequented the STF restaurant where we were joined by Kev Leahy and Joe Barrs and discussed pre race strategies over some tasty Reindeer Steak.
 
@@ -139,7 +141,7 @@ The other option was retracing our steps back to the river crossing which I esti
 
 We decided on the former 
 
-At this point there were 7 of us – myself, Eoin, Charlie Wilkins, Caroline Barrett (team Exmoor Mountain Rescue) , Robi, Malou, and Andrew Bond. The army team had made the same mistake but they were out of sight ahead so we couldn’t call them back.
+At this point there were 7 of us – myself, Eoin, Charlie Wilkins, Caroline Barrett (team Exmoor Mountain Rescue) , Robi, Malou, and Andrew Bond. Uhuru had made the same mistake but they were out of sight ahead so we couldn’t call them back.
 
 The trail was quite rough and steep in places, definitely not conducive to pulling a pulk but progress was ok until we reached the end of the train at a small cabin and a bridge. 
 
@@ -376,6 +378,8 @@ Ok, I put the tracker in my pocket to avoid any more wasted time pulling it in a
 
 I was almost at hut 2 when I glanced behind and spotted someone else coming up the trail. I was fully expecting this, Robi, or Andrew had caught me up due to my snail like pace. But no, it was Kev! Wtf
 
+![](/images/arcticspine2024/6.jpeg)
+
 “Hi Kev, you alright” I enquired. 
 
 “Aye, I took a wrong turn back there lost a load of time”
@@ -394,7 +398,7 @@ We entered a small room with barely enough space to fit us in and performed the 
 
 Kev left a little before me and I followed him out into a 2nd night on the trail just as a few others were arriving.
 
-| ![Luxury toilet facilities at hut 2](/images/arcticspine2024/5.jpeg)|
+| ![Luxury toilet facilities at Singi Hut](/images/arcticspine2024/5.jpeg)|
 |:--:|
 | Luxury toilet facilities at hut 2 |
 
@@ -413,8 +417,6 @@ After a few hours I received a message “CP1 cut-off extended to 1pm. 3km per h
 As the previous cut-off had been extended I was expecting the next one to also be extended but it didn’t seem like it was by much and unless I didn’t sleep the chances of me making it in the time were slim to none.
 
 Maybe if it was the end of the race I could have pushed through but I still potentially had over 6 days left, I had to sleep at some point.
-
-
 
 I decided by being a bit more efficient I could reduce my pre-race planned rest time down from 6 hours to 4. I had water from the last hut so shouldn’t need to melt snow, so 45 mins each side of camp and 2.5 hours sleep. 
 
@@ -441,6 +443,8 @@ When I tried to pressurise the fuel bottle there was no resistance on the pump a
 At this point Ed passed by, he seemed in good spirits and was heading to try and find a hut a little further down the trail to rest in (I subsequently discovered that he didn’t find it and had a brutal night camping on the trail).
 
 I was trying to eat my ready meal at the same time as doing this, but it was now cold and not very appetising. By the time I retired to the tent to rest the last bits were frozen solid. 
+
+![](/images/arcticspine2024/7.jpeg)
 
 ### An uncomfortable night and a big decision
 
@@ -488,7 +492,7 @@ I pondered the question before replying “Yes but won’t make cutoff?”
 
 No reply was forthcoming, the question remained unanswered, and I lay there waiting.
 
-Hours later the roar or a snowmobile engine signalled the arrival on the Sami and he delivered his promised items or a stove, fuel and a pair of big mitts.
+Hours later the roar or a snowmobile engine signalled the arrival of the Sami (He was called Magnus) and he delivered his promised items or a stove, fuel and a pair of big mitts. 
 
 I got the stove going as he asked me what I wanted to do. What are my options I asked back.
 
@@ -498,7 +502,7 @@ My tracker beeped, “is Sami there? Cut-off has been lifted do you wish to cont
 
 Whatever my decision I knew that I had to thaw out my boots enough for me to be able to get my feet into them, so I brought the stove inside the tent, shut to door and carefully held the boots as close to the roaring flame as I dared.
 
-My fingertips were throbbing and numb and I asked the Sami for his opinion. After a cursory glance he replied that just because my fingers are numb it doesn’t mean that I have frostbite, but I’m not a doctor.
+My fingertips were throbbing and numb and I asked Magnus for his opinion. After a cursory glance he replied that just because my fingers are numb it doesn’t mean that I have frostbite, but I’m not a doctor.
 
 I inspected them again myself. They looked normal, there were no white patches or other discoloration and they felt malleable to touch.
 
@@ -506,7 +510,7 @@ Ok, lets think this through.
 
 I now had a stove and a warm pair of gloves so I could melt snow and dry equipment.
 
-It was about 20 miles to CP1 – at my current pace I calculated it would take at least 12 hours to get there, most of it being during the night.
+It was over 20 miles to CP1 – at my current pace I calculated it would take at least 12 hours to get there, most of it being during the night.
 
 I had some stiffness and niggles but assuming nothing deteriorated then nothing should stop be physically moving. I also had plenty food.
 
@@ -514,11 +518,11 @@ My hands weren’t showing any signs of frostbite but I suspected that I had fro
 
 If I made it to CP1 then what next? If was quite clear that the race wasn’t going to finish in Hemavan, but if not there then where? And when? Would it just be a case of keeping moving for 6 more days to see how far I could get? Would there be any more cut-offs?
 
-I wanted the Sami to tell me that I had put in a heroic effort, that I should feel proud of myself for getting this far but that I really should call it a day now rather than putting myself in any more unnecessary danger and risking permanent damage to my hands or worse.
+I wanted Magnus to tell me that I had put in a heroic effort, that I should feel proud of myself for getting this far but that I really should call it a day now rather than putting myself in any more unnecessary danger and risking permanent damage to my hands or worse.
 
 Or maybe I wanted him to tell me to stop being so soft, to get my shit together and get my arse moving – I haven’t got all day to hang around looking at you feeling sorry for yourself you know.
 
-He just stood there staring at me emotionless. I wasn’t going to get any help here this was my decision alone.
+He just stood there staring at me emotionless. I wasn’t going to get any help there this was my decision alone.
 
 Mentally and physically, I wasn’t ready to leave the race but what would my goal now be if I continued? What experiences and learnings could I get from the race that I hadn’t already? 
 
@@ -526,7 +530,7 @@ I do what I aways do in these situations and pictured my future self. Would he b
 
 I felt like I hadn’t disgraced myself and not been out of my depth, I’d ultimately been let down by a serious of poor decisions and stupid mistakes which I could learn from.
 
-After about 45 minutes my boots had thawed out enough that I could shoehorn my feet into them with a bit of force, but they were like blocks of ice and I still couldn’t budge the zips to fasten them up, nor could either of the Sami (another had arrived by now).
+After about 45 minutes my boots had thawed out enough that I could shoehorn my feet into them with a bit of force, but they were like blocks of ice and I still couldn’t budge the zips to fasten them up, nor could either of the Sami (another had arrived by now, Per-Isak).
 
 That was the final straw I called it, and my race was over. 
 
@@ -540,22 +544,19 @@ All that was left to go was to pack up camp and accept the snowmobile ride to CP
 
 I’ve never ridden on a snowmobile before but had always wanted to.
 
-There was no safety briefing, risk assessment or instruction, it was just a case of hop onto the back and cling on for dear life.
+There was no safety briefing, risk assessment or instruction, it was just a case of hop onto the back and cling on for dear life. I jumped on with Per-Isak and Magnus loaded my pulk onto a trailer he was towing on the snowmobile.
 
 I can’t explain how exhilarating that ride was, it was amazing. Over hills, across frozen lakes and skilfully weaving through dense birch forest we sped sometimes at speeds close to 50mph. Vast landscapes opened up all around of soaring mountain ranges vast frozen lakes and huge birch forests. Just when I thought the scenery couldn’t improve, we crested another ridge and the view was even better.
 
-It was a beautifully crisp and clear day 
-
-The sun was out in full force, treating us to a Sun Dog.
+It was a beautifully crisp bluebird day and we were even treated to a stunning Sun Dog.
 
 ![](/images/arcticspine2024/IMG_3464.JPG)
 
-It was breath-taking and terrifying in equal measures. As one point coming down a steep hill off camber the Sami stacked it and we both went flying off landing unhurt in the deep snow. The Sami apologised but we both laughed about it before rolling the snowmobile back over and jumping on again.
+It was breath-taking and terrifying in equal measures. As one point coming down a steep hill off camber Per-Isak stacked it and we both went flying off landing unhurt in the deep snow. Per-Isak apologised but we both laughed about it before rolling the snowmobile back over and jumping on again.
 
 We stopped en-route to pick up Robi who had also retired from the race and was resting in one of the mountain huts. Further down the trail we also passed Ed and Kev, together and now the only 2 remaining people in the race.
 
 Upon arrival at CP1 at Stora Mountain lodge we were greeted by Phil who kindly looked after us, followed up by Charlotte to give us a medical check.
-
 
 | ![Some impressive icicles at CP1](/images/arcticspine2024/IMG_3507.JPG)|
 |:--:|
@@ -563,15 +564,13 @@ Upon arrival at CP1 at Stora Mountain lodge we were greeted by Phil who kindly l
 
 She confirmed the frostnip in my fingers but was happy how they responded after re-warming. Robi wasn’t so lucky, she suspected mild frost-bite and advised him to check into the emergency department in the nearest hospital. Apparently another 2 people had suffered the same fate.
 
-Dean kindly dove us to the nearest towns from which we could plan our return journeys. For me that was spending the night in Gallivere before a 17 hour train journey to Stockholm and subsequent flights back to Newcastle.
-
-Robi went on to Kiruna to check into the hospital there.
+Dean kindly drove us to the nearest towns from which we could plan our return journeys. For me that was spending the night in Gallivere before a 17 hour train journey to Stockholm and subsequent flights back to Newcastle. For Robi it was Kiruna where he planned to check into the hospital there.
 
 ### Epilogue
 
 I write this around 2 weeks post-race. Some of my fingers are still numb but other than that physically I’m fine.
 
-I was able to follow the rest of the race.
+I enjoyed following the remainder of the race, with a slight pang of sadness that I was no longer in it.
 
 It was a brave decision for Ed to leave the safety of his team and push on solo, and he was rewarded with a Challenger finish in Kvikkjokk, 127 miles.
 
@@ -616,7 +615,10 @@ I’d also try to utilise the huts (if open and not snowed in) more as opposed t
 
 Will I be back next year for another go?
 
-Too right I will be.
+Of course I will be. This experience has only made me more hungry to return to these spectacular landscapes.
+
+
+&nbsp;
 
 Will Roberts collared me for a few words post-race which you can view below
 
@@ -642,7 +644,7 @@ Merino wool socks. My feet were never cold during the race, however the reason m
 
 Montane Phase Waterproof gaiters
 
-I chose to ski and pulled a plastic pulk with a metal trace and I believe this was the right option as opposed to snow shoes. Interestingly Barclay had a full ski touring setup with a backpack instead of pulk and this seemed to work well for him).
+I chose to ski and pulled a plastic pulk with a metal trace and I believe this was the right option as opposed to snow shoes. Interestingly Barclay had a full ski touring setup with a backpack instead of pulk and this seemed to work well for him.
 
 
 #### Legs
@@ -680,7 +682,7 @@ Balaclava
 
 Goggles
 
-Hands
+#### Hands
 
 Wrist warmers
 
@@ -719,7 +721,7 @@ Leatherman Signal multitool
 
 Iphone  - no signal anywhere en-route but battery held out for photos
 
-Intu 20Mpah power bank
+Intu 20,000mAh power bank
 
 Peztl Actik Core Head torch *2
 
@@ -727,7 +729,7 @@ Garmin 64s with talky toaster maps installed
 
 Garmin Epix Pro 2 watch
 
-Only needed 100 lumens brightness the majority of the time. Used watch for nav the majority of the time in combination with the map. Never needed to use the 64s
+I only needed 100 lumens brightness the majority of the time. Used watch for nav the majority of the time in combination with the map. Never needed to use the 64s
 
 
 #### Water and carrying capacity
@@ -736,6 +738,6 @@ Only needed 100 lumens brightness the majority of the time. Used watch for nav t
 500ml Thermos food flask
 2 * 1l Nalgene bottles, 1 with insulated sleeve
 
-Water froze too easily in the Nalgene’s and I didn’t have time to keep topping them up with warm water from the flask. Better solution would be a larger flask and 1 bottle (with insulated sleeve).
+Water froze too easily in the Nalgene’s and I didn’t have time to keep topping them up with warm water from the flask. Better solution would be a larger flask and 1 Nalgene (with insulated sleeve).
 
-I wore a 25L OMM rucksack at all times with equipment I thought I’d need quickly to save having to open the pulk. This ended up being a pain as the straps often got tangled with those of the harness, and also the straps on my gloves. A better system would have been a large bum bag and putting my large insulated jacked in my pulk (although I ended up wearing it anyway).
+I wore a 25L OMM rucksack at all times with equipment/food I thought I’d need quickly to save having to open the pulk. This ended up being a pain as the straps often got tangled with those of the harness, and also the straps on my gloves. A better system would have been a large bum bag and putting my large insulated jacked in my pulk (although I ended up wearing it anyway).
