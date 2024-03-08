@@ -612,12 +612,14 @@ Similarly wearing water vapour barrier socks will prevent sweat getting into my 
 
 I’d also try to utilise the huts (if open and not snowed in) more as opposed to camping in the snow although this is only possible in certain areas of the trail.
 
-
 Will I be back next year for another go?
 
 Of course I will be. This experience has only made me more hungry to return to these spectacular landscapes.
 
+ [Link to race on Strava](https://www.strava.com/activities/10724015254)
 
+ [Write up on the training course](https://robbrooks.run/arctic/sweden2022/)
+ 
 &nbsp;
 
 Will Roberts collared me for a few words post-race which you can view below
