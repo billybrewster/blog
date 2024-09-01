@@ -11,9 +11,10 @@ I’m on the top of Snowdon - its dark, raining and very cold. I’m soaked to t
 
 This is how my first attempt at a Paddy Buckley Round ended 6 years ago (you can read about it [here ](https://robbrooks.run/posts/paddybuckly2018/))).
 
+
 I’d always intended to return for another go (I’d fast packed the round over 3 days with Katherine Davis a few years back which was a great experience), but for one reason or another I never have. Until now.
 
-The Paddy Buckley Round is one of the UK big 3 rounds (the others being the Bob Graham Round in the Lake District and the Ramsay Round in Scotland), and generally considered to be the hardest.
+The Paddy Buckley Round is one of the UK big 3 rounds (the others being the Bob Graham Round in the Lake District and the Ramsay Round in Scotland), and generally considered to be the hardest. Its around 66 miles with 30,000ft of climbing around the whacking great hills of Northern Snowdonia.
 
 To date only around 200 people have completed a Paddy in under 24 hours, compared to almost 3000 a Bob Graham.
 
@@ -312,6 +313,8 @@ And I’d done it!!! 23 hours and 25 minutes after leaving the previous morning 
 
 ![](/images/pb2024/5/8.jpg)
 
+
+
 ### Epilogue
 
 ![](/images/pb2024/5/2.jpg)
@@ -331,3 +334,6 @@ Whilst I do enjoy races and solo challenges there is something really special ab
 I feel so privileged to have so many good friends who are willing to give up their weekend and travel all the way to Wales to help me achieve one of my dreams, it really was a team effort (even if some of them occasionally quite literally punch your lights out).
 
 ![](/images/pb2024/5/1.jpg)
+
+
+[My Strava ](https://strava.app.link/LtJK0XEwxMb/)
