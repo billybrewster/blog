@@ -3,6 +3,7 @@ title: "Cleveland Way 2021"
 draft: false
 date: 2021-10-21
 featured_image: 'images/fastpacking/cleveland.JPEG'
+tags: ["fastpacking"]
 ---
 
 The Cleveland Way 

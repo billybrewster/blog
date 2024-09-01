@@ -3,6 +3,7 @@ title: "Paddy Buckley 2022"
 draft: false
 date: 2022-04-22
 featured_image: 'images/fastpacking/paddy.JPG'
+tags: ["fastpacking"]
 ---
 
 I made an unsucessful attempt at a Paddy Buckley Round bak in 2018 (see write up https://robbrooks.run/running/paddybuckly2018/) and it's been on my radar to have another go ever since but for a number of reasons I've never had the chance to go back.

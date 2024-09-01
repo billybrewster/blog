@@ -3,6 +3,8 @@ title: "Fighting the Dragon"
 date: 2021-12-24T16:32:00Z
 draft: false
 featured_image: 'images/db2021/IMG_2150.jpeg'
+tags: ["running"]
+categories: ["running"]
 ---
 
 So I didn’t complete the Dragon’s Back Race this year. My main concern going into the race was my knee as I’ve been suffering from tendonitis which has curtailed my training, I barely ran for the four weeks preceding the race although I did manage to do some hiking with help of poles on the descents.

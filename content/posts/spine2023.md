@@ -3,7 +3,7 @@ title: "Spine Race 2023 - The Three Geordigos"
 date: 2023-01-25T16:32:00Z
 draft: false
 featured_image: 'images/spine2023/31.JPG'
-tags: ["running"]
+tags: ["running","winter"]
 categories: ["running"]
 ---
 

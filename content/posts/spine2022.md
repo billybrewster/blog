@@ -3,7 +3,7 @@ title: "Spine Race 2022"
 date: 2022-01-25T16:32:00Z
 draft: false
 featured_image: 'images/spine2022/image31.jpeg'
-tags: ["running"]
+tags: ["running","winter"]
 categories: ["running"]
 ---
 

@@ -3,6 +3,7 @@ title: "West Highland Way 2022"
 draft: false
 date: 2022-06-02
 featured_image: 'images/fastpacking/whw.JPEG'
+tags: ["fastpacking"]
 ---
 
 

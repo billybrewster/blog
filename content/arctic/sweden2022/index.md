@@ -2,6 +2,7 @@
 title: "Sweden Arctic Training Trip 2022"
 draft: false
 featured_image: 'images/arctic/arrenjarka.jpg'
+tags: ["arctic","winter"]
 ---
 
 

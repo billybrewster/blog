@@ -3,6 +3,8 @@ title: "Dragons Back Race 2019"
 date: 2019-05-24T16:32:00Z
 draft: false
 featured_image: 'images/db2019/210.JPG'
+tags: ["running"]
+categories: ["running"]
 ---
 
 ### Day -1, The Calm Before the Storm

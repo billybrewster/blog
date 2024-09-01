@@ -3,6 +3,8 @@ title: "Paddy Buckley Round  2018"
 date: 2018-07-15T16:32:00Z
 draft: false
 featured_image: 'images/pb2018/1.png'
+tags: ["running"]
+categories: ["running"]
 ---
 
 Even before I had completed my Bob Graham Round last year I had decided that my next big challenge was going to be a Paddy Buckley Round. It is similar in terms of ascent and distance but widely considered much tougher because of the roughness of the terrain and lack of trods/footpaths.
