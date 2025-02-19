@@ -1,51 +1,58 @@
 baseURL = 'https://robbrooks.run/'
 languageCode = 'en-us'
 title = 'Rob Brooks Run'
-theme = ["ananke", "hugo-shortcode-gallery"]
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2","hugo-shortcode-gallery"]
+
 timeout = 600000 # This is requiered for larger galleries to be build
+defaultContentLanguage = "en"
+sectionPagesMenu = "main"
+enableRobotsTXT = true
+
+[sitemap]
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
 
 [params]
-  text_color = ""
-  author = "Rob Brooks"
-  favicon = ""
-  site_logo = ""
-  description = ""
-  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  featured_image = "images/rob.jpeg"
-  recent_posts_number = 10
-  show_reading_time = "true"
-  loadJQuery = "true"
-  galleryLoadJQuery = "true"
-  galleryRowHeight    = 200
-  galleryMargins      = 10
-  galleryResizeOptions= "800x800 q88 Lanczos"
-  galleryPreviewType  = "blur"
-  galleryThumbnailHoverEffect = "enlarge"
+text_color = ""
+author = "Rob Brooks"
+favicon = ""
+site_logo = ""
+description = ""
+# choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+background_color_class = "bg-black"
+featured_image = "../images/rob.jpeg"
+recent_posts_number = 10
+show_reading_time = "true"
+loadJQuery = "true"
+galleryLoadJQuery = "true"
+galleryRowHeight    = 200
+galleryMargins      = 10
+galleryResizeOptions= "800x800 q88 Lanczos"
+galleryThumbnailHoverEffect = "enlarge"
+
+[params.ananke.social.share]
+networks = [
+  "email",
+  "facebook",
+  "bluesky",
+  "linkedin"
+]
+
+[params.ananke.social.follow]
+networks = [
+  "facebook",
+  "youtube"
+]
+
+[params.ananke.social.youtube]
+username = "Billybrewster334"
+
+[params.ananke.social.facebook]
+username = "rob.brooks.10297"
 
 [imaging.exif]
     includeFields = ".*"
-    
-[[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/billybluestar"
-
-[[params.ananke_socials]]
-name = "youtube"
-url = "https://youtube.com/channel/UCsDbmaht_nWUIzjYgLMCy7w"
-
-[[params.ananke_socials]]
-name = "facebook"
-url = "https://facebook.com/rob.brooks.10297"
-
-[[params.ananke_socials]]
-name = "instagram"
-url = "https://instagram.com/robertbrooks334"
-
-[[params.ananke_socials]]
-name = "strava"
-url = "https://www.strava.com/athletes/7552454"
-
 
 [menu]
 [[menu.main]]
