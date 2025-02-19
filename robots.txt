@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://robbrooks.run/sitemap.xml
