@@ -22,7 +22,7 @@ It was around -10 degrees which felt ok and I took the opportunity to have a qui
 
 Then it was time for dinner and catching up with some old faces and meeting some new ones. It was great to see Joe, Barclay, Caroline and Alex who were all returning from last year.
 
-I was bunked with Barclay, Les, Kiera and Rianne (before she decided Les snoring was too much and left for another room). 
+I was bunked with Barclay, Les, Kiera and Rianne (before she decided Les snoring was too much and departed for another room). 
 Barclay did the race last year but sadly retired just after hut 1 with frostbite. We’d spent quite a bit of time in the intervening year conversing and swapping race strategies and lessons learned.
 
 Les is a larger than life character, the life and soul of the party. He has a wealth of experience from serving in the army where he was blown up and lost the sight in one eye, and lots of high-level mountaineering including scaling Everest at the third attempt and saving a woman’s life on his first, sacrificing his own attempt.
@@ -112,6 +112,8 @@ It turned out that I wasn’t the only one to have some “fun” on the pass �
 
 I eventually got down from the steeper section onto a more gentler gradient so I flipped the pulk round so I was pulling it behind me again and put my ski’s back on to prevent the constant post holing.
 
+### This pulk wasn't made for walking
+
 Unfortunately, I now had a new problem.
 
 Up until now the track had been largely flat or uphill but was now downhill until hut 2 at Singi. This should have been good news especially as the snow was nowhere near as deep as last year and I wasn’t breaking trail.
@@ -153,10 +155,7 @@ Had I got the right hut? There were a few to choose from, but this was definitel
 
 I was crushed.
 
-A few message exchanges on the sat tracker informed me that the safety team had been unable to get to the hut the previous night because of the icy conditions but were now on their way.
-
-Thinking back to Darren’s warning the previous day I could only imagine the team hadn’t been able to get there due to the conditions.
-Opening another door there was a small room containing a bed – every cloud!!
+A few message exchanges on the sat tracker informed me that the safety team had been unable to get to the hut the previous night because of the icy conditions but were now on their way. Opening another door there was a small room containing a bed – every cloud!!
 
 ![](/images/arcticspine2025/IMG_6907.HEIC)
 
@@ -371,7 +370,7 @@ Before long a figure appeared behind – it was Mathieu. He’d managed to buy a
 ![](/images/arcticspine2025/IMG_6975.HEIC)
 
 On one gentle downhill section Barclay took his skins off to get some more glide. I tried the same, but I found it took painful to push with my poles so just put them back on, it was just wasted time.
-We ate a late lunch in the lakeside cabin at ** before pushing on over the lake crossing and starting the next big climb as darkness fell.
+We ate a late lunch in a lakeside cabin before pushing on over the lake crossing and starting the next big climb as darkness fell.
 
 ![](/images/arcticspine2025/IMG_6977.HEIC)
 
@@ -391,6 +390,7 @@ Barclay and Mathieu were ahead so I pressed on to the hut at Arktse where I foun
 A series of relayed messaged on the sat tracker and it turned out that he’d missed the turn off to the hut and was bivvying out further down the trail.
 
 It reminded me of the times before mobile phones when you were trying to meet up with your mates. Someone would have to find a payphone, phone the friends mam and relay a message, hoping that they would also phone their mam and receive it. Otherwise, they would end up trawling through all the bars in town trying to find you.
+
 We had a comfortable night in the hut, and the following morning found Alex (Allen) fast asleep in the porch (there were only 2 beds inside).
 
 ![](/images/arcticspine2025/IMG_6985.HEIC)
@@ -411,8 +411,12 @@ Apart from the usual falling over and constantly putting ski’s on and off our 
 
 ![](/images/arcticspine2025/IMG_7003.HEIC)
 
-As we stopped for lunch at the ** cabin we were greeted by the media team before departing for the final push. Mathieu preferred to go at his own speed so shot off ahead leaving me and Barclay to complete the final section of the trail together.
-https://www.youtube.com/watch?v=qSojuvzS8vQ&t=6s
+As we stopped for lunch at another cabin we were greeted by the media team who recorded some soundbites from us all (see vid below)
+
+{{< youtube qSojuvzS8vQ >}}
+
+Mathieu had also decided to stop at Kvikkjokk - I have no doubt he could have made it to the end but he wasn't keen on taking on the remaining sections of the race by himself, especially given the sketchy lake and river section previous. He preferred to go at his own speed so shot off ahead leaving me and Barclay to complete the final section of the trail together.
+
 
 Our final lake crossing was framed by a magnificent sunset, another memorable section. As we stopped to take it all in we could hear loud booming noises followed by cracking. I’d noticed this before on lake crossings but was more pronounced now that we’d stopped. Water freezes as it expands, so as the water beneath the ice was freezing it was pushing up the ice hence the noises. Although potentially disconcerting it was actually a good sign as it meant the ice was getting thicker in the now colder temperatures.
 
@@ -422,12 +426,19 @@ Our final lake crossing was framed by a magnificent sunset, another memorable se
 
 ![](/images/arcticspine2025/IMG_7013.HEIC)
 
-The last descent down to Kvikkjokk was fast and furious – I was managing to control the pulk a bit better (at least on foot) and as the gradient increased, I ran down behind it at speed thoroughly enjoying myself.
+The last descent down to Kvikkjokk was fast and furious – I was managing to control the pulk a bit better (at least on foot). I had become highly attuned to listening to the noises it was making and anticipating from which direction is was going to attack. As the gradient increased  I ran down behind it at speed thoroughly enjoying myself.
 
 ![](/images/arcticspine2025/IMG_7017.HEIC)
 
 We arrived in good spirits at Kvikkjokk to be awarded with a completion of the Challenger course, a medal and a hearty meal provided by Darren.
 We were joined shortly after by Alex who was the last person in the race and the 2nd official finisher of the challenger (because we were on the full course our times were classed as unofficial). Everyone behind him had either been timed out or had retired.
+
+I really felt for the group that had been behind us on the sketchy lake crossing including Les. As they were crossing the lakes the wind picked up and it started raining (I guess it must have been around the same time we were in a blizzard on the hill). This meant people were being blown around uncontrollably, a few people lost skis and ultimately had to make camp to ride out the storm, which unfortunately didn't abate for some time hence they were timed out.
+
+The rain also led to a large amount of deep overflow which trapped some people between in and the rocky untraversable shoreline, who ultimately had to be exctracted by the Sami snowmobile team. Being told to pair up also led to some people being slower than they would have normally been 
+
+If it hadn't been for this series of events I'm certain they wopuld have all made it to CP1 within the cutoff time.
+
 
 ![](/images/arcticspine2025/IMG_7016.HEIC)
 
@@ -448,43 +459,39 @@ I spent some time chatting with Mathieu in the airport, he is truly a remarkable
 
 It's truly inspirational to meet someone with such a zest for life.
 
-
+Strava : https://strava.app.link/RUgzzBtC7Qb
 
 
 ### Epilogue
 
 Although I didn’t complete the full race I feel very satisfied having spent 4 and a half days out on the trail and being credited with a Challenger finish. Advertised at 129 miles I ended up doing almost 143. I was still about 14 hours ahead of the cutoff on arrival at Kvikkjokk and I feel that if not for the pain in my ribs I would have had a chance of reaching the end. I’m writing this almost a week after finishing and they are still really sore so it was definitely the right decision to stop.
 
-My pulk, although not as bad as Mathieu’s was looking very sorry for itself with some nasty gashes and holes, and my ski’s had some nice scratches in them.
-This year there were 5 finishers in the full race Leif, Joe, Ulf, Jon and Kiera. Hats off to them all, I’m especially happy for Joe who’s race ended in hut 1 last year with frostbite.
+It was amazing having Barlcay and Mathieu for company for large stretches of the race, and others who I shared some miles with along the way including Kiera and Jon.
 
-There will be some years in the future where (I believe) there will be none, not because of the calibre of the athletes but because of the conditions.
+This year I felt like my admin was much better, I didn't make any stupid mistakes (apart from not taking spikes or a fixed trace) and I fueled well. As planned I made full use of the huts en-route and apart from my ribs my body held up pretty well I didn't have any other physical issues (other than lots of bruises).
+
+My pulk, although not as bad as Mathieu’s was looking very sorry for itself with some nasty gashes and holes, and my ski’s had some nice scratches in them.
+This year there were 5 finishers in the full race Leif, Joe, Ulf, Jon and Kiera. Hats off to them all, I’m especially happy for Joe who’s race ended in hut 1 last year with frostbite. Bjorn absolutely smashed the Challeger in 60 hours, and Nik wont the new explorer race, which I was also really happy to see Caroline also finish (and win).
+
+There will be some years in the future where (I believe) there will be no finishers, not because of the calibre of the athletes but because of the conditions.
 I spent (as did many) a significant amount of time on foot. Last year (or in 2021 when I did the training) I don’t think you could walk a single step without deeply post holing and progress was significantly slower.
 
 Although not good for underfoot conditions, the warm temps were a much nicer working temperature and as far as I’m aware there were no cold weather injuries this year. 
 
-### What went well
-
-My fuelling strategy – a combination of snacky food and freeze-dried/packet meals kept mu energy levels high most of the time.
-Use of huts – I didn’t spend a night under canvas and was able to use some of the huts as mid-day stopping points for refuelling.
-Sleep – I slept a lot more than I was expecting too whilst still remaining well in front of the cutoffs.
-What would I change/improve
-Take ice spikes – I could have moved significantly faster on some of the icier terrain with them.
-The loose trace was a disaster, I simply couldn’t control it. With more snow this wouldn’t have been as much of an issue, and a fixed trace wouldn’t have prevented my from falling over but it would have been a lot easier to manage.
-
 As for me – will I be back?
 
 Yes I still feel like I have unfinished business in the race but I’d already decided beforehand that whatever happened I wouldn’t be back next year.
-There are other races and things that I want to do around that time of year – I’d like to improve my skiing, and also so some independent expeditions such as a crossing of the Hardangervidda plateau in Norway.
+There are other races and things that I want to do around that time of year – I’d like to improve my skiing, try some other races and also so some independent expeditions such as a crossing of the Hardangervidda plateau in Norway.
 For now I’m going to rest up and then look forward to some other (warmer) adventures I have planned for later in the year.
 
-### 100 ways a pulk can kill you 
+### 10 ways in which a  pulk tries to kill you 
 ##### The nudge
-The pulk slides up and nudges the back of your skis and/or the back of your legs. With practice these can be anticipated and don’t usually result in a fall unless your skis also hit an obstacle such as a piece of ice or rock/tree root at the same time.
+The pulk slides up behind and nudges the back of your skis and/or the back of your legs. With practice these can be anticipated and don’t usually result in a fall unless your skis also hit an obstacle such as a piece of ice or rock/tree root at the same time.
 
 ##### The parallel sweep
 The pulk runs alongside you and for a while is controllable until it gently overtakes you and then is pulled across the front of your skis stopping progress. This doesn’t usually result in a fall but does stop progress and requires yanking the pulk back on track.
-The full sweep : 
+
+##### The full sweep 
 The pulk overtakes at speed and then sweeps around in front yanking off your feet.
 
 ##### The camber jamber
@@ -503,7 +510,7 @@ The only reasonable way to handle these is to swing the harness around so that t
 Grab the trace and hold it to the side to try and guide the pulk down in parallel whilst also nudging it with your outside foot/ski This often  leads to the parallel sweep.
 
 ##### The false sense of security 
-Life is good – you are on a gentle downhill, the pulk is running beside you and you are able to control it. But what is that up ahead? (pick from corner, root, rock, patch of ice, branch …). I can’t stop and I can’t steer so BANG hello ground.
+Life is good – you are on a gentle downhill, the pulk is running beside you and you are able to control it. But what is that up ahead? (pick from corner, root, rock, patch of ice, branch ). I can’t stop and I can’t steer so BANG hello ground.
 
 ##### The slalom
 Whilst descending steep ground the weight of the pulk is too much, pulls you over and then continues to head downhill with you in tow
