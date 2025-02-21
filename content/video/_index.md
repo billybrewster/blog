@@ -4,6 +4,14 @@ draft: false
 featured_image: 'images/IMG_2616.jpeg'
 ---
 
+{{< youtube qSojuvzS8vQ >}}
+
+&nbsp;
+
+{{< youtube gcD9cNtOoUE >}}
+
+&nbsp;
+
 {{< youtube ZT9a5vrQ5Bk >}}
 
 &nbsp;

@@ -44,6 +44,8 @@ I shared a few moments of humour with Caroline when we recognised the points whe
 
 ![](/images/arcticspine2025/IMG_6872.HEIC)
 
+![](/images/arcticspine2025/image0.jpeg)
+
 Upon reaching the first lake crossing it was clear that it was not only free of snow but also had patches of overflow. Overflow happens when the water rises up through cracks in the ice and then sits on the surface. This is bad for a number of reasons, mainly because it wets the ski skins leading to snow sticking to them which constantly needs to be removed.
 
 ![](/images/arcticspine2025/IMG_6877.HEIC)
@@ -53,6 +55,8 @@ Thus it was time to remove my skis but as I didn’t have any snow shoes or micr
 ![](/images/arcticspine2025/IMG_6878.HEIC)
 
 Upon reaching the other side I stopped for a short break where the safety team also had stopped. Darren informed me and a few others that because of the icy conditions they might not make it up to hut 1 as the snow machines were struggling to gain traction carrying the heavy trailers – they had taken about the same time as me to cross the lake.
+
+![](/images/arcticspine2025/image1.jpeg)
 
 I was warm and sweating profusely but otherwise feeling ok.
 
@@ -380,6 +384,8 @@ We ate a late lunch in a lakeside cabin before pushing on over the lake crossing
 
 The temperature also fell bringing with it strong winds which drove the now heavily falling snow horizontally at us relentlessly. Up and up we went into the blizzard until we finally reached the top.
 
+![](/images/arcticspine2025/03a608ca-1fb3-4b11-aa5e-9399c1d7a50b.jpg)
+
 
 The newly fallen snow helped stabilise the trail and I was actually able to ski down with no pulk anxiety for a short while, but then the gradient increased and because of the whiteout conditions I was unable to see more than a few metres in front of me. 
 I stopped to remove my skis and performed the same technique as Tjaktka – letting the pulk run down in front of me whilst steering from behind and giving it the odd kick when needed. Thankfully there was no camber on the descent and once into the forest below out of the worst of the elements it was quite fun.
@@ -411,6 +417,8 @@ Apart from the usual falling over and constantly putting ski’s on and off our 
 
 ![](/images/arcticspine2025/IMG_7003.HEIC)
 
+![](/images/arcticspine2025/0630c2ee-ceba-49de-bfba-5c0c02d48e41.jpg)
+
 As we stopped for lunch at another cabin we were greeted by the media team who recorded some soundbites from us all (see vid below)
 
 {{< youtube qSojuvzS8vQ >}}
@@ -418,7 +426,11 @@ As we stopped for lunch at another cabin we were greeted by the media team who r
 Mathieu had also decided to stop at Kvikkjokk - I have no doubt he could have made it to the end but he wasn't keen on taking on the remaining sections of the race by himself, especially given the sketchy lake and river section previous. He preferred to go at his own speed so shot off ahead leaving me and Barclay to complete the final section of the trail together.
 
 
-Our final lake crossing was framed by a magnificent sunset, another memorable section. As we stopped to take it all in we could hear loud booming noises followed by cracking. I’d noticed this before on lake crossings but was more pronounced now that we’d stopped. Water freezes as it expands, so as the water beneath the ice was freezing it was pushing up the ice hence the noises. Although potentially disconcerting it was actually a good sign as it meant the ice was getting thicker in the now colder temperatures.
+Our final lake crossing was framed by a magnificent sunset, another memorable section. 
+
+{{< youtube gcD9cNtOoUE >}}
+
+As we stopped to take it all in we could hear loud booming noises followed by cracking. I’d noticed this before on lake crossings but was more pronounced now that we’d stopped. Water freezes as it expands, so as the water beneath the ice was freezing it was pushing up the ice hence the noises. Although potentially disconcerting it was actually a good sign as it meant the ice was getting thicker in the now colder temperatures.
 
 ![](/images/arcticspine2025/IMG_7007.HEIC)
 
@@ -428,10 +440,13 @@ Our final lake crossing was framed by a magnificent sunset, another memorable se
 
 The last descent down to Kvikkjokk was fast and furious – I was managing to control the pulk a bit better (at least on foot). I had become highly attuned to listening to the noises it was making and anticipating from which direction is was going to attack. As the gradient increased  I ran down behind it at speed thoroughly enjoying myself.
 
-![](/images/arcticspine2025/IMG_7017.HEIC)
+![](/images/arcticspine2025/36916c59-3b7f-43ec-8f48-e41a78710ce0.jpg)
+
 
 We arrived in good spirits at Kvikkjokk to be awarded with a completion of the Challenger course, a medal and a hearty meal provided by Darren.
 We were joined shortly after by Alex who was the last person in the race and the 2nd official finisher of the challenger (because we were on the full course our times were classed as unofficial). Everyone behind him had either been timed out or had retired.
+
+![](/images/arcticspine2025/IMG_7017.HEIC)
 
 I really felt for the group that had been behind us on the sketchy lake crossing including Les. As they were crossing the lakes the wind picked up and it started raining (I guess it must have been around the same time we were in a blizzard on the hill). This meant people were being blown around uncontrollably, a few people lost skis and ultimately had to make camp to ride out the storm, which unfortunately didn't abate for some time hence they were timed out.
 
