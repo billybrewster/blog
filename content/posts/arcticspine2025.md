@@ -2,7 +2,7 @@
 title: "Arctic Spine Race 2025"
 draft: false
 date: 2025-02-19T16:32:00Z
-featured_image: 'images/arcticspine2025/IMG_6986.HEIC'
+featured_image: 'images/arcticspine2025/IMG_6986.jpg'
 tags: ["arctic","winter"]
 ---
 
@@ -42,17 +42,17 @@ We we walked down to for the race start and set off on foot as it was too precar
 
 I shared a few moments of humour with Caroline when we recognised the points where we had left and rejoined the trail last year after making an early nav error. None of that nonsense this year.
 
-![](/images/arcticspine2025/IMG_6872.HEIC)
+![](/images/arcticspine2025/IMG_6872.jpg)
 
 ![](/images/arcticspine2025/image0.jpeg)
 
 Upon reaching the first lake crossing it was clear that it was not only free of snow but also had patches of overflow. Overflow happens when the water rises up through cracks in the ice and then sits on the surface. This is bad for a number of reasons, mainly because it wets the ski skins leading to snow sticking to them which constantly needs to be removed.
 
-![](/images/arcticspine2025/IMG_6877.HEIC)
+![](/images/arcticspine2025/IMG_6877.jpg)
 
 Thus it was time to remove my skis but as I didn’t have any snow shoes or micro spikes (a decision that I bitterly regretted for the rest of the race) my only option was to gingerly tiptoe across the slippery sheet ice at a frustratingly slow pace.
 
-![](/images/arcticspine2025/IMG_6878.HEIC)
+![](/images/arcticspine2025/IMG_6878.jpg)
 
 Upon reaching the other side I stopped for a short break where the safety team also had stopped. Darren informed me and a few others that because of the icy conditions they might not make it up to hut 1 as the snow machines were struggling to gain traction carrying the heavy trailers – they had taken about the same time as me to cross the lake.
 
@@ -62,38 +62,38 @@ I was warm and sweating profusely but otherwise feeling ok.
 
 Refuelled I was now ready for the big climb ahead which I shared with Alex O Shea and Corinne Moss. Alex had a lightweight pulk which didn’t have any runners on the bottom resulting in it skittering all over on anything other than a perfectly flat surface.
 
-![](/images/arcticspine2025/IMG_6883.HEIC)
+![](/images/arcticspine2025/IMG_6883.jpg)
 
 
 As we reached some steeper sections I removed my skis due to the patchy snow cover and ice making it difficult to gain traction even when herring boning (a technique for climbing involving extending your skis at a 45 degree angle and digging in with your edges).
 
-![](/images/arcticspine2025/IMG_6885.HEIC)
+![](/images/arcticspine2025/IMG_6885.jpg)
 
 ### Finding flow
 
 At the top of the climb we were rewarded by a truly stunning mountain panorama framed by a beautiful sunset and I was reminded why I do these things. As my friend Katherine Davis often says I felt like I just wanted to drink it all in. It was perfectly still and calm I could have stayed there forever.
 
-![](/images/arcticspine2025/IMG_6886.HEIC)
+![](/images/arcticspine2025/IMG_6886.jpg)
 
-![](/images/arcticspine2025/IMG_6889.HEIC)
+![](/images/arcticspine2025/IMG_6889.jpg)
 
-![](/images/arcticspine2025/IMG_6891.HEIC)
+![](/images/arcticspine2025/IMG_6891.jpg)
 
-![](/images/arcticspine2025/IMG_6894.HEIC)
+![](/images/arcticspine2025/IMG_6894.jpg)
 
 I now found a bit of a rhythm and really enjoyed the next few hours skiing through the fading daylight and into the night. There was a full moon so no need for a headtorch and the mountain landscape revealed it’s spectacular beauty to me. 
 
-![](/images/arcticspine2025/IMG_6895.HEIC)
+![](/images/arcticspine2025/IMG_6895.jpg)
 
-![](/images/arcticspine2025/IMG_6897.HEIC)
+![](/images/arcticspine2025/IMG_6897.jpg)
 
 Just when I thought things couldn’t get any better the Northern Lights made an appearance. I’d never seen them so clearly and they visibly danced around the sky, constantly moving and changing shape. I was truly mesmerized and spent many minutes staring at the sky and surrounding landscape in awe.
 
-![](/images/arcticspine2025/IMG_6899.HEIC)
+![](/images/arcticspine2025/IMG_6899.jpg)
 
 People talk about a flow state and for the next few hours I felt like I was in it until in the distance I spotted the light at hut 1. After a very steep icy climb I arrived, about 3 hours earlier than I had last year and in good spirits.
 
-![](/images/arcticspine2025/IMG_6902.HEIC)
+![](/images/arcticspine2025/IMG_6902.jpg)
 
 Darren welcomed me inside and I spent about an hour resting eating and drying my feet out. I’d used a vapour barrier (plastic bag) between my liner sock and thick outer sock but because of the warm conditions my feet were macerated so I removed the bag and let my feet air. The same had happened to my hands (I was wearing surgical gloves).
 
@@ -103,7 +103,7 @@ A number of people were sleeping outside in tents but I was still feeling good a
 
 A short time later I reached the hut at the top of the pass where I’d slept last year, but I calculated that at my current speed I should be able to reach the next hut further down the valley at Saika and still sleep in darkness so again I pushed on.
 
-![](/images/arcticspine2025/IMG_6904.HEIC)
+![](/images/arcticspine2025/IMG_6904.jpg)
 
 Pushed on to my nemesis – the descent from Tkaktja pass where last year I had been trapped under my pulk for the best part of an hour.
 That wasn’t happening again – I carefully removed my skis and twisted my harness so the that pulk was in front of me and gingerly started to walk down, holding the rope to try and steer and control it whilst digging into the snow/ice with my feet to prevent the pulk pulling me over.
@@ -161,7 +161,7 @@ I was crushed.
 
 A few message exchanges on the sat tracker informed me that the safety team had been unable to get to the hut the previous night because of the icy conditions but were now on their way. Opening another door there was a small room containing a bed – every cloud!!
 
-![](/images/arcticspine2025/IMG_6907.HEIC)
+![](/images/arcticspine2025/IMG_6907.jpg)
 
 Race rules dictate that you aren’t allowed to sleep inside the manned huts, however this one wasn’t manned at present, so I decided to have a freeze dried meal with the water from my flask and catch a few hours sleep. It was daylight now, around 7am so I was conscious of staying too long.
 
@@ -171,7 +171,7 @@ Some time later I was awoken by someone entering the hut – it was Barclay. We 
 
 I left the hut still empty down the huge, glaciated valley. A few hours later I spotted a few snow machines approaching me – it was the safety team on their way to the hut.
 
-![](/images/arcticspine2025/IMG_6908.HEIC)
+![](/images/arcticspine2025/IMG_6908.jpg)
 
 They stopped and I had a brief chat with Alex before pushing on.
 After a while I reached the point at which I’d stopped last year (around 53 miles). This should have been a high point – I’d now passed my previous marker and was entering new ground.
@@ -186,17 +186,17 @@ In the end I just had to push on and put up with it for mile after mile.
 Eventually the slope flattened which should have been good news, however I now had some new challenges. Well, they were the same challenges but just more of them.
 The next section traversed a wide river which again would have normally been frozen and covered in snow, but there was very little snow, lots of sheet ice and stretches of open flowing water.
 
-![](/images/arcticspine2025/IMG_6912.HEIC)
+![](/images/arcticspine2025/IMG_6912.jpg)
 
 It was a choice of either following the summer trail over lumpy ground with exposed vegetation, ice and rocks or staying closer to the river and risking dodgy snow bridges, unstable ice and water. In the end it was a combination of them all, and again a real torturous section.
 On the plus side I was able to gingerly fill my flask from the river which saved time stopping to melt snow.
 
-![](/images/arcticspine2025/IMG_6915.HEIC)
+![](/images/arcticspine2025/IMG_6915.jpg)
 
 Eventually through the river section it was time to start climbing again and putting on my headtorch as it was now turning dark.
 Although going uphill was hard work at least it was straightforward and the pulk was behaving itself. At the top of the hill I received an message on the tracker informing of overflow on the upcoming lakes. Then another set of messages ending with a mandate from the race director that the river section between the 2 lakes must be done in at least a pair and in daylight.
 
-![](/images/arcticspine2025/IMG_6916.HEIC)
+![](/images/arcticspine2025/IMG_6916.jpg)
 
 On the descent I caught sight of someone else behind me, it was Ulf. Ulf is highly accomplished having made crossings of both Svalbard and Greenland, We said hi, and then approached possibly the worst section of the route so far, and incredibly steep and twisty descent down through a pine forest. Barclay later commented that for a very competent downhill ski-er it would a very difficult black run.
 Obviously ski-ing it was out of the question so it was a case of lowering the pulk down ahead whilst trying to steer with the trace and not be pulled down the hill. Even just holding the pulk still was a considerable effort, and regularly the pulk would get stuck against a tree or rock and require significant effort to pull back up and re-adjust.
@@ -208,9 +208,9 @@ Settled in meaning getting the stove on (the big proper cabin stove), eating a d
 I was awoken an hour or so later by someone else entering the hut – it was Kiera.
 We agreed to pair up for the river section, calculating that from the hut it would take us around 2 hours to reach. Alarm set for 4am for 5am start.
 
-![](/images/arcticspine2025/IMG_6921.HEIC)
+![](/images/arcticspine2025/IMG_6921.jpg)
 
-![](/images/arcticspine2025/IMG_6922.HEIC)
+![](/images/arcticspine2025/IMG_6922.jpg)
 
 ### Lake Terror
 
@@ -233,11 +233,11 @@ A steady tailwind helped to push us along, a little too quickly sometimes for my
 As we reached the other side of the lake we spotted 2 people off to the right – it was Jon and Mathieau. 
 We had received a message instructing us to keep to the left of the river. Surveying the land I couldn’t see an obvious way through. We could see some crosses but there was no snow cover, huge patches of sheet ice and an ominous hill. 
 
-![](/images/arcticspine2025/IMG_6925.HEIC)
+![](/images/arcticspine2025/IMG_6925.jpg)
 
 There was nothing for it other than taking off our ski’s and gingerly picking our way through the terrain. It would have been difficult just on foot with no pulk and wearing spikes. Pulling the pulk over steep rocky terrain trying to avoid the worst of the ice was not just hard physically, but precarious and mentally exhausting. Every footstep had to be measured and tested , going down was just as bad if not worse. Les eloquently described it like _“dragging a sea mine through a f**ng hose pipe”_
 
-![](/images/arcticspine2025/IMG_6929.HEIC)
+![](/images/arcticspine2025/IMG_6929.jpg)
 
 At one point my foot slipped on a piece of ice and I fell hard, twisting my knee awkwardly underneath me as I went down. The pain was excruciating and I lay on the ground gasping for air, convinced I had broken something. Nausea swept over me and I thought I was going to pass out. 
 
@@ -255,32 +255,32 @@ Kiera was also using a lightweight “siglin” type of pulk similar to Alex O S
 The route now opened out into a wide estuary so it was back to picking our way trying to stay on the good ice and avoiding open water.
 We then reached the second lake which was as snow free as the first had been and also as rusk free. As we set off Kiera said that he was going to go on ahead. I had no problem with this, I was slowing him down on the lake sections on which he could move much faster than I could and so I watched as he gradually pulled ahead of me.
 
-![](/images/arcticspine2025/IMG_6932.HEIC)
+![](/images/arcticspine2025/IMG_6932.jpg)
 
 Close to the end of the lake I spotted Mathieu behind me, and he had some stories to tell. He had ended up on the wrong side of the river on the previous section (before the climb up big hill) and ended up bivvying out with Jon before retracing their steps the following day.
 They then had a torturous section trying to navigate the river where we had spotted them and the end of the second lake. They had stayed right close to the river, and Mathieu had fell through some unstable ice into it. Luckily just one foot but it was fully submerged.
 
 He told me that on the last lake he’d adopted and aero position and used the wind to propel him down the lake (I believe he’d taken his skins off completely) but then he built up to a pretty high speed and couldn’t slow down or control himself. He described it as being particularly scary.
 
-![](/images/arcticspine2025/IMG_6937.HEIC)
+![](/images/arcticspine2025/IMG_6937.jpg)
 
 He then skied off in front of me, again more efficient with his short skins towards the shoreline which I reached around 30 minutes later.
 There are some more stories to tell from this section, but we shall come to those later in our story.
 
-![](/images/arcticspine2025/IMG_6938.HEIC)
+![](/images/arcticspine2025/IMG_6938.jpg)
 
 Getting onto land proved tricky due to the large swaths of ice barring the way. Sheet ice can be traversed with care if perfectly flat but introduce any type of slope and without any spikes is impossible, especially pulling a pulk. It took a while to find a suitable point, and then it was back to dragging the pulk over snow free open ground.
 
-![](/images/arcticspine2025/IMG_6939.HEIC)
+![](/images/arcticspine2025/IMG_6939.jpg)
 
 I decided this was a good point to stop and have a hot meal which I did. As I was packing up Jon appeared behind and we exchanged stories of our adventures so far.
 
-![](/images/arcticspine2025/IMG_6942.HEIC)
+![](/images/arcticspine2025/IMG_6942.jpg)
 
 We walked the remaining snow free road section down to CP1 together, trying to find some snow or traversable ice on the side of the road which sometimes proved impossible, and we were dragging our pulks on the exposed road surface.
 We arrived just as sun was setting to find Joe just setting out. It was great to see him again and I wished him good luck as he set off into the night.
 
-![](/images/arcticspine2025/IMG_6943.HEIC)
+![](/images/arcticspine2025/IMG_6943.jpg)
 
 Already inside the checkpoint were Barclay, Kiera and Mathieu.
 
@@ -320,7 +320,7 @@ We all (Barclay, Jon and Mathieu) agreed to set off together with the same aim, 
 Fuelled and faffed out we departed into the night onto another snow free road, awkwardly trying to find patches of snow or ski-able/walkable ice at the side. We were around 23 hours ahead of the race cutoff.
 The Northern lights made an appearance behind us and I stopped many times to look back, in awe of their splendour.
 
-![](/images/arcticspine2025/IMG_6954.HEIC)
+![](/images/arcticspine2025/IMG_6954.jpg)
 
 Although the gradient wasn’t steep the road went up for what seemed like forever before dropping down very slightly to the lake (was the lake on an angle we pondered).
 
@@ -334,7 +334,7 @@ I resisted their call and upon arriving at the STF hut I was greeted my Barclay 
 It felt like paradise – there were lots of rooms, enough for us to have 1 each with loads to spare.
 It was around 1am
 
-![](/images/arcticspine2025/IMG_6960.HEIC)
+![](/images/arcticspine2025/IMG_6960.jpg)
 
 Barclay announced that he wasn’t going to set and alarm and planned to wake naturally to take advantage of our luxurious accommodation and I decided to do the same. I felt the more rest I could give my ribs the better chance I’d have of continuing but deep down I knew that I couldn’t expect any significant improvement.
 
@@ -343,7 +343,7 @@ Barclay announced that he wasn’t going to set and alarm and planned to wake na
 I woke naturally at around 7am after probably the best sleep since I’d arrived in Sweden and found Barlcay and Mathieu in the lounge area having risen around 10 minutes before me.
 Mathieu’s pulk was completely destroyed and unusable, there were gaping hopes in the bottom where there should have been pieces of pulk. He was in the process of contacting the race organisation to see if they could supply a replacement.
 
-![](/images/arcticspine2025/IMG_6957.HEIC)
+![](/images/arcticspine2025/IMG_6957.jpg)
 
 The pain in my ribs wasn’t any better and I still couldn’t breathe properly. I had a big decision to make. 
 I just couldn’t see a way of being able to make it another 6+ days to Hemavan, best case I could hope for was that the pain would remain at its current level, but in all likelihood it would get worse especially if I continued to fall which I couldn’t see a way of preventing completely.
@@ -354,33 +354,33 @@ Barclay said he’d be happy to accompany me, even when I expressed my concerns 
 
 And so we set off together leaving Mathieu to hopefully sort out his pulk woes.
 
-![](/images/arcticspine2025/IMG_6961.HEIC)
+![](/images/arcticspine2025/IMG_6961.jpg)
 
-![](/images/arcticspine2025/IMG_6962.HEIC)
+![](/images/arcticspine2025/IMG_6962.jpg)
 
 We were immediately climbing but there was no sign of the impending storm – it was a bluebird day, wall to wall sunshine and not even the hint of a breeze. 
 
 The climb led onto a wide-open valley with far reaching views of the surrounding mountains and apart from a few bare patches was generally good skiing.
 Barclay described this as the best part of the race so far and I was hard pushed to disagree with him. The open nature of the trail allowed us to traverse side by side and chat along the way.
 
-![](/images/arcticspine2025/IMG_6969.HEIC)
+![](/images/arcticspine2025/IMG_6969.jpg)
 
 Before long a figure appeared behind – it was Mathieu. He’d managed to buy a second hand pulk in Saltolukta and was now back in the game – amazing.
 
-![](/images/arcticspine2025/IMG_6972.HEIC)
+![](/images/arcticspine2025/IMG_6972.jpg)
 
-![](/images/arcticspine2025/IMG_6973.HEIC)
+![](/images/arcticspine2025/IMG_6973.jpg)
 
-![](/images/arcticspine2025/IMG_6975.HEIC)
+![](/images/arcticspine2025/IMG_6975.jpg)
 
 On one gentle downhill section Barclay took his skins off to get some more glide. I tried the same, but I found it took painful to push with my poles so just put them back on, it was just wasted time.
 We ate a late lunch in a lakeside cabin before pushing on over the lake crossing and starting the next big climb as darkness fell.
 
-![](/images/arcticspine2025/IMG_6977.HEIC)
+![](/images/arcticspine2025/IMG_6977.jpg)
 
-![](/images/arcticspine2025/IMG_6978.HEIC)
+![](/images/arcticspine2025/IMG_6978.jpg)
 
-![](/images/arcticspine2025/IMG_6979.HEIC)
+![](/images/arcticspine2025/IMG_6979.jpg)
 
 The temperature also fell bringing with it strong winds which drove the now heavily falling snow horizontally at us relentlessly. Up and up we went into the blizzard until we finally reached the top.
 
@@ -390,7 +390,7 @@ The temperature also fell bringing with it strong winds which drove the now heav
 The newly fallen snow helped stabilise the trail and I was actually able to ski down with no pulk anxiety for a short while, but then the gradient increased and because of the whiteout conditions I was unable to see more than a few metres in front of me. 
 I stopped to remove my skis and performed the same technique as Tjaktka – letting the pulk run down in front of me whilst steering from behind and giving it the odd kick when needed. Thankfully there was no camber on the descent and once into the forest below out of the worst of the elements it was quite fun.
 
-![](/images/arcticspine2025/IMG_6981.HEIC)
+![](/images/arcticspine2025/IMG_6981.jpg)
 
 Barclay and Mathieu were ahead so I pressed on to the hut at Arktse where I found Mathieu waiting but not Barclay. There was no phone signal – we tried calling out and whistling but to no avail.
 A series of relayed messaged on the sat tracker and it turned out that he’d missed the turn off to the hut and was bivvying out further down the trail.
@@ -399,23 +399,23 @@ It reminded me of the times before mobile phones when you were trying to meet up
 
 We had a comfortable night in the hut, and the following morning found Alex (Allen) fast asleep in the porch (there were only 2 beds inside).
 
-![](/images/arcticspine2025/IMG_6985.HEIC)
+![](/images/arcticspine2025/IMG_6985.jpg)
 
 ### Final day on the trail
 
 We had a good natter before setting out and meeting Barclay at the other side of the lake. 
 
-![](/images/arcticspine2025/IMG_6986.HEIC)
+![](/images/arcticspine2025/IMG_6986.jpg)
 
 Apart from the usual falling over and constantly putting ski’s on and off our last day on the trail was pretty uneventful. It was mostly flat through vast forests and lakes, framed by magnificent mountains all around. It was noticeably colder (Alex reckons it was -20), but not a problem.
 
-![](/images/arcticspine2025/IMG_6991.HEIC)
+![](/images/arcticspine2025/IMG_6991.jpg)
 
-![](/images/arcticspine2025/IMG_6993.HEIC)
+![](/images/arcticspine2025/IMG_6993.jpg)
 
-![](/images/arcticspine2025/IMG_6998.HEIC)
+![](/images/arcticspine2025/IMG_6998.jpg)
 
-![](/images/arcticspine2025/IMG_7003.HEIC)
+![](/images/arcticspine2025/IMG_7003.jpg)
 
 ![](/images/arcticspine2025/0630c2ee-ceba-49de-bfba-5c0c02d48e41.jpg)
 
@@ -432,11 +432,11 @@ Our final lake crossing was framed by a magnificent sunset, another memorable se
 
 As we stopped to take it all in we could hear loud booming noises followed by cracking. I’d noticed this before on lake crossings but was more pronounced now that we’d stopped. Water freezes as it expands, so as the water beneath the ice was freezing it was pushing up the ice hence the noises. Although potentially disconcerting it was actually a good sign as it meant the ice was getting thicker in the now colder temperatures.
 
-![](/images/arcticspine2025/IMG_7007.HEIC)
+![](/images/arcticspine2025/IMG_7007.jpg)
 
-![](/images/arcticspine2025/IMG_7011.HEIC)
+![](/images/arcticspine2025/IMG_7011.jpg)
 
-![](/images/arcticspine2025/IMG_7013.HEIC)
+![](/images/arcticspine2025/IMG_7013.jpg)
 
 The last descent down to Kvikkjokk was fast and furious – I was managing to control the pulk a bit better (at least on foot). I had become highly attuned to listening to the noises it was making and anticipating from which direction is was going to attack. As the gradient increased  I ran down behind it at speed thoroughly enjoying myself.
 
@@ -446,7 +446,7 @@ The last descent down to Kvikkjokk was fast and furious – I was managing to co
 We arrived in good spirits at Kvikkjokk to be awarded with a completion of the Challenger course, a medal and a hearty meal provided by Darren.
 We were joined shortly after by Alex who was the last person in the race and the 2nd official finisher of the challenger (because we were on the full course our times were classed as unofficial). Everyone behind him had either been timed out or had retired.
 
-![](/images/arcticspine2025/IMG_7017.HEIC)
+![](/images/arcticspine2025/IMG_7017.jpg)
 
 I really felt for the group that had been behind us on the sketchy lake crossing including Les. As they were crossing the lakes the wind picked up and it started raining (I guess it must have been around the same time we were in a blizzard on the hill). This meant people were being blown around uncontrollably, a few people lost skis and ultimately had to make camp to ride out the storm, which unfortunately didn't abate for some time hence they were timed out.
 
@@ -455,11 +455,11 @@ The rain also led to a large amount of deep overflow which trapped some people b
 If it hadn't been for this series of events I'm certain they wopuld have all made it to CP1 within the cutoff time.
 
 
-![](/images/arcticspine2025/IMG_7016.HEIC)
+![](/images/arcticspine2025/IMG_7016.jpg)
 
 ### The journey home
 
-![](/images/arcticspine2025/IMG_7024.HEIC)
+![](/images/arcticspine2025/IMG_7024.jpg)
 
 We were dropped off the following day in Jokkmokk where we decamped to a local hotel to discuss our ongoing travel arrangements. Enjoying a coffee who walks in but Les – what are the chances!!
 
@@ -468,7 +468,7 @@ It was great to see him and he informed us that he had a taxi booked to the bus 
 What turned up was not a taxi, but a dodgy looking guy with slick back hair, porn tash and a tab hanging out of the side of his mouth. He drove a clapped out old van with a cracked windscreen, a load of bit of wood and junk in the back and a plethora of empty beer cans and other rubbish strewn around the passenger seat.
 In a couple of trips he had transported all of us and all of our gear to the bus station and seemingly wanted no payment. I’ve no idea where Les found him but it was comedy gold.
 
-![](/images/arcticspine2025/IMG_7034.HEIC)
+![](/images/arcticspine2025/IMG_7034.jpg)
 
 I spent some time chatting with Mathieu in the airport, he is truly a remarkable individual. He is recently retired at 68, having sold his business last year and has lived life to the fullest, completing races such as the Yukon Arctic Ultra, Lapland Ultra and Iditerod. He’s mushed dog sleighs , rowed solo across the Atlantic and is the only person to row solo through the Northwest passage from Greenland to Alaska. Later this year he is off to the Himilayas to climb an 8000m peak. 
 
@@ -665,4 +665,3 @@ Didn’t need headtorch at all on night 1 as the moon was so bright.  Used watch
 I again wore a 25L OMM rucksack at all times with the 2 500ml flasks easily accessible in the side pockets, and snacks in the waist and chest pockets. In the top pocket I had my spork (also helpful for scraping ice/snow off my skis), handwarmers, headtorch , cap and sunglasses. In the main bag was items of clothing I might need to get to quickly such as my goggle, face mask and hard shell when it was too warm to wear it.
 I did start off with my Nalgene in there too but switched it to the pulk as it was easier to access from there.
 I was really happy with this setup and would use it again. 
-
