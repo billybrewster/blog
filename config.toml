@@ -51,8 +51,9 @@ username = "Billybrewster334"
 [params.ananke.social.facebook]
 username = "rob.brooks.10297"
 
-[imaging.exif]
-    includeFields = ".*"
+[imaging.meta]
+fields = ["**"]
+sources = ["exif"]
 
 [menu]
 [[menu.main]]
